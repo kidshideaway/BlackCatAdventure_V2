@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/piano_base_coins_pickup_000.wav-77660fbf5dd288c26824c92dd694b93a.sample"
+
+[deps]
+
+source_file="res://Resources/Assets/Assets Sounds/wav/piano_base_coins_pickup_000.wav"
+dest_files=[ "res://.import/piano_base_coins_pickup_000.wav-77660fbf5dd288c26824c92dd694b93a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

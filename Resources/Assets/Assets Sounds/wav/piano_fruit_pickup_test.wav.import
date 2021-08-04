@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/piano_fruit_pickup_test.wav-cbf3f614e82f661ccc44f5af5e5aebbd.sample"
+
+[deps]
+
+source_file="res://Resources/Assets/Assets Sounds/wav/piano_fruit_pickup_test.wav"
+dest_files=[ "res://.import/piano_fruit_pickup_test.wav-cbf3f614e82f661ccc44f5af5e5aebbd.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

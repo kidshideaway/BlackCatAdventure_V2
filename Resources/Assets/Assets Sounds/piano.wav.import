@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/piano.wav-2130b3085545045bc23d53dcb60d21c6.sample"
+
+[deps]
+
+source_file="res://Resources/Assets/Assets Sounds/piano.wav"
+dest_files=[ "res://.import/piano.wav-2130b3085545045bc23d53dcb60d21c6.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/piano_portal_Activated.wav-be26bc4c764f8728363ca0907686db94.sample"
+
+[deps]
+
+source_file="res://Resources/Assets/Assets Sounds/wav/piano_portal_Activated.wav"
+dest_files=[ "res://.import/piano_portal_Activated.wav-be26bc4c764f8728363ca0907686db94.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

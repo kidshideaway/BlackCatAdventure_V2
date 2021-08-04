@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/piano_cast_magic_001.wav-5d7df305ef1ee79526e9954f47d6195e.sample"
+
+[deps]
+
+source_file="res://Resources/Assets/Assets Sounds/wav/piano_cast_magic_001.wav"
+dest_files=[ "res://.import/piano_cast_magic_001.wav-5d7df305ef1ee79526e9954f47d6195e.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

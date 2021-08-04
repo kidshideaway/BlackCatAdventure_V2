@@ -1,0 +1,8 @@
+.portfolio-gallery-content img, .portfolio-gallery-content a{
+    box-shadow: none !important;
+}
+
+section[id^="pfhub_portfolio_portfolio_content_"]{
+    display: inline-block !important;
+    width:100% !important;
+}
