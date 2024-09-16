@@ -1,0 +1,948 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1725864195
+default_env.tres::Environment::-1::1725859742::0::1::::<><>::
+icon.png::CompressedTexture2D::591483200531236006::1725859742::1725864239::1::::<><>::
+README.md::TextFile::-1::1725859731::0::1::::<><>::
+::res://Resources/::1725859742
+::res://Resources/Assets/::1725859740
+::res://Resources/Assets/Assets Animated Objects/::1725859731
+leaf_pile250by157.tga::CompressedTexture2D::8459241956950907093::1725859731::1725864273::1::::<><>::
+leaf_pile705by443.tga::CompressedTexture2D::7840168160910001794::1725859731::1725864273::1::::<><>::
+leaf_pile.png::CompressedTexture2D::7405916586979693786::1725859731::1725864273::1::::<><>::
+leaf_pile_ani_001.png::CompressedTexture2D::5291937090736572056::1725859731::1725864273::1::::<><>::
+leaf_pile_ani_002.png::CompressedTexture2D::3937017278447557493::1725859731::1725864273::1::::<><>::
+leaf_pile_ani_003.png::CompressedTexture2D::1771488459056681064::1725859731::1725864273::1::::<><>::
+leaf_pile_ani_004.png::CompressedTexture2D::4958635674901619602::1725859731::1725864273::1::::<><>::
+leaf_pile_ani_005.png::CompressedTexture2D::8353530834604282264::1725859731::1725864273::1::::<><>::
+leaf_pile_ani_006.png::CompressedTexture2D::8862493921250359543::1725859731::1725864273::1::::<><>::
+leaf_pile_ani_007.png::CompressedTexture2D::6360353187173919002::1725859731::1725864273::1::::<><>::
+leaf_pile_ani_008.png::CompressedTexture2D::4987634083135371221::1725859731::1725864273::1::::<><>::
+leaf_pile_ani_009.png::CompressedTexture2D::9210914778846131043::1725859731::1725864274::1::::<><>::
+logs250by157.tga::CompressedTexture2D::2680688419887388162::1725859731::1725864273::1::::<><>::
+logs705by443.tga::CompressedTexture2D::3291529242903534368::1725859731::1725864274::1::::<><>::
+logs.png::CompressedTexture2D::832428646938403796::1725859731::1725864274::1::::<><>::
+snow_pile250by173.tga::CompressedTexture2D::5677082246273493325::1725859731::1725864273::1::::<><>::
+snow_pile500by345.tga::CompressedTexture2D::6678533405018999351::1725859731::1725864274::1::::<><>::
+snow_pile.png::CompressedTexture2D::3160291508411421989::1725859731::1725864274::1::::<><>::
+::res://Resources/Assets/Assets Awards/::1725859731
+badge-50(1).tga::CompressedTexture2D::1033537935541991991::1725859731::1725864276::1::::<><>::
+badge-50.tga::CompressedTexture2D::2965695309740921411::1725859731::1725864270::1::::<><>::
+badges-prize-50(1).tga::CompressedTexture2D::2116213356001829336::1725859731::1725864270::1::::<><>::
+badges-prize-50.tga::CompressedTexture2D::4239195796194830645::1725859731::1725864271::1::::<><>::
+badges-prize-100.tga::CompressedTexture2D::7963597235494352448::1725859731::1725864271::1::::<><>::
+::res://Resources/Assets/Assets Awards/badge/::1725859731
+badge-50.tga::CompressedTexture2D::3718379792391970622::1725859731::1725864276::1::::<><>::
+badges-prize-50.tga::CompressedTexture2D::1200410572792119453::1725859731::1725864276::1::::<><>::
+::res://Resources/Assets/Assets Awards/coin/::1725859731
+coin_sprite(1).tga::CompressedTexture2D::8718160395126554494::1725859731::1725864274::1::::<><>::
+coin_sprite.tga::CompressedTexture2D::395052004342152156::1725859731::1725864274::1::::<><>::
+::res://Resources/Assets/Assets Awards/stars/::1725859731
+stars.tga::CompressedTexture2D::1605881189734757699::1725859731::1725864275::1::::<><>::
+stars_small.tga::CompressedTexture2D::7172498953385691511::1725859731::1725864274::1::::<><>::
+::res://Resources/Assets/Assets Backgrounds/::1725859732
+background_city.png::CompressedTexture2D::8003772343106698329::1725859731::1725864269::1::::<><>::
+blackcat-background-000.tga::CompressedTexture2D::8081076447155454912::1725859731::1725864272::1::::<><>::
+blackcat-background-001.tga::CompressedTexture2D::596966936371606213::1725859731::1725864272::1::::<><>::
+blackcat-background-002.tga::CompressedTexture2D::3627628143379007442::1725859731::1725864272::1::::<><>::
+blackcat-background-003.tga::CompressedTexture2D::8811203424590122748::1725859731::1725864272::1::::<><>::
+blackcat-background-004.tga::CompressedTexture2D::1962158287417999714::1725859731::1725864272::1::::<><>::
+blackcat-background-sky.tga::CompressedTexture2D::5538121109157280569::1725859731::1725864273::1::::<><>::
+blackcat-background-sky_night.tga::CompressedTexture2D::3224286648420977379::1725859731::1725864271::1::::<><>::
+blackcat-background-sky_sunrise.tga::CompressedTexture2D::6828564318149133242::1725859731::1725864273::1::::<><>::
+blackcat-background-sky_sunset.tga::CompressedTexture2D::7733408253714066902::1725859732::1725864274::1::::<><>::
+city2_houses.png::CompressedTexture2D::1050823091043158743::1725859732::1725864273::1::::<><>::
+feature_purple_to_pink_background.png::CompressedTexture2D::5788105932649005891::1725859732::1725864272::1::::<><>::
+giant-tree.tga::CompressedTexture2D::8040938997006894917::1725859732::1725864272::1::::<><>::
+location_city_bg_houses.png::CompressedTexture2D::7003743795436533327::1725859732::1725864273::1::::<><>::
+Location_giant-tree_bg.tga::CompressedTexture2D::2435302101816192066::1725859731::1725864272::1::::<><>::
+purple_background.png::CompressedTexture2D::1508480773930412194::1725859732::1725864272::1::::<><>::
+purple_to_pink_background.png::CompressedTexture2D::6401067483553293407::1725859732::1725864272::1::::<><>::
+purple_to_pink_background_S.png::CompressedTexture2D::7270091483988858913::1725859732::1725864273::1::::<><>::
+sky_blues.tga::CompressedTexture2D::4824601165800613982::1725859732::1725864273::1::::<><>::
+sky_night.tga::CompressedTexture2D::5451949908599031613::1725859732::1725864273::1::::<><>::
+sky_rainbow.tga::CompressedTexture2D::686417272875533442::1725859732::1725864273::1::::<><>::
+sky_sunrise.tga::CompressedTexture2D::4937626603912765666::1725859732::1725864280::1::::<><>::
+sky_sunset.tga::CompressedTexture2D::4598869874203345640::1725859732::1725864280::1::::<><>::
+::res://Resources/Assets/Assets Foods/::1725859732
+::res://Resources/Assets/Assets Foods/apple/::1725859732
+apple.tga::CompressedTexture2D::2201210116128932637::1725859732::1725864281::1::::<><>::
+apple_small.tga::CompressedTexture2D::3698748167455911746::1725859732::1725864280::1::::<><>::
+appple.tga::CompressedTexture2D::6070820838699987480::1725859732::1725864281::1::::<><>::
+::res://Resources/Assets/Assets Foods/carrot/::1725859732
+carrot.tga::CompressedTexture2D::9210041600577248995::1725859732::1725864281::1::::<><>::
+carrot_small.tga::CompressedTexture2D::696017494746080291::1725859732::1725864281::1::::<><>::
+::res://Resources/Assets/Assets Foods/cherry/::1725859732
+cherry.tga::CompressedTexture2D::4520809567852258064::1725859732::1725864282::1::::<><>::
+cherry_small.tga::CompressedTexture2D::7451852745579039644::1725859732::1725864281::1::::<><>::
+::res://Resources/Assets/Assets Foods/corn/::1725859732
+corn.tga::CompressedTexture2D::7400738926900547675::1725859732::1725864282::1::::<><>::
+corn_small.tga::CompressedTexture2D::4185904827333778660::1725859732::1725864281::1::::<><>::
+::res://Resources/Assets/Assets Foods/eggplant/::1725859732
+eggplant.tga::CompressedTexture2D::7896516225961452312::1725859732::1725864282::1::::<><>::
+eggplant_small.tga::CompressedTexture2D::5507785757351005568::1725859732::1725864281::1::::<><>::
+::res://Resources/Assets/Assets Foods/fish/::1725859732
+fish.tga::CompressedTexture2D::2376073962324288727::1725859732::1725864283::1::::<><>::
+fish_small.tga::CompressedTexture2D::7987590843267675886::1725859732::1725864282::1::::<><>::
+::res://Resources/Assets/Assets Foods/grapes/::1725859732
+grapes.tga::CompressedTexture2D::2594583778152442247::1725859732::1725864282::1::::<><>::
+grapes_small.tga::CompressedTexture2D::785185612592148772::1725859732::1725864282::1::::<><>::
+::res://Resources/Assets/Assets Foods/pear/::1725859732
+pear.tga::CompressedTexture2D::2072651104756669586::1725859732::1725864283::1::::<><>::
+pear_small.tga::CompressedTexture2D::409661553258469886::1725859732::1725864282::1::::<><>::
+::res://Resources/Assets/Assets Foods/strawberry/::1725859732
+strawberry.tga::CompressedTexture2D::2207540552909014591::1725859732::1725864282::1::::<><>::
+strawberry_small.tga::CompressedTexture2D::4619335876126530402::1725859732::1725864282::1::::<><>::
+::res://Resources/Assets/Assets Landscapes/::1725859732
+blackcatadventure-cloud-landscape.tga::CompressedTexture2D::6362817558162505923::1725859732::1725864277::1::::<><>::
+blackcatadventure-cloudledge.tga::CompressedTexture2D::9194572924437196482::1725859732::1725864277::1::::<><>::
+blackcatadventure-hauntedhouse.tga::CompressedTexture2D::3016565069131465366::1725859732::1725864277::1::::<><>::
+blackcatadventure-lava-landscape.png::CompressedTexture2D::8423776878740450990::1725859732::1725864276::1::::<><>::
+blackcatadventure-moon-landscape.tga::CompressedTexture2D::4642045858789695326::1725859732::1725864278::1::::<><>::
+blackcatadventure-road-landscape.tga::CompressedTexture2D::7907317748971114016::1725859732::1725864278::1::::<><>::
+blackcatadventure-road-landscape_icedandsnow.tga::CompressedTexture2D::8191219213220155372::1725859732::1725864276::1::::<><>::
+blackcatadventure-trees-landscape.tga::CompressedTexture2D::7225474356366431349::1725859732::1725864278::1::::<><>::
+blackcatadventure-water-landscape.png::CompressedTexture2D::7204178488486424551::1725859732::1725864276::1::::<><>::
+::res://Resources/Assets/Assets Landscapes/Spring/::1725859732
+spring-bushes-landscape.tga::CompressedTexture2D::8037546018798223541::1725859732::1725864283::1::::<><>::
+::res://Resources/Assets/Assets Landscapes/Summer/::1725859732
+blackcatadventure-bushes-landscape.tga::CompressedTexture2D::6800217271966888307::1725859732::1725864284::1::::<><>::
+road-landscape_summer_v0.png::CompressedTexture2D::4109392323512004607::1725859732::1725864282::1::::<><>::
+road-landscape_summer_v1.png::CompressedTexture2D::1969549730769034134::1725859732::1725864282::1::::<><>::
+road-landscape_summer_v2.png::CompressedTexture2D::1326694691510391135::1725859732::1725864283::1::::<><>::
+road-landscape_summer_v3.png::CompressedTexture2D::5332766278735742428::1725859732::1725864274::1::::<><>::
+::res://Resources/Assets/Assets Landscapes/Winter/::1725859732
+blackcatadventure-winter-bushes-landscape.tga::CompressedTexture2D::3542877899917714868::1725859732::1725864275::1::::<><>::
+winter-brown-bushes-landscape.png::CompressedTexture2D::4469513633644079736::1725859732::1725864275::1::::<><>::
+winter-bushes-landscape.png::CompressedTexture2D::5212932445430599077::1725859732::1725864275::1::::<><>::
+winter-bushes-landscape.tga::CompressedTexture2D::5805949060926391508::1725859732::1725864275::1::::<><>::
+winter-orange-bushes-landscape.tga::CompressedTexture2D::6811325591586730487::1725859732::1725864276::1::::<><>::
+::res://Resources/Assets/Assets Mountains/::1725859734
+blackcatadventure-mountain-fall-landscape_watercolor.png::CompressedTexture2D::478031958722576648::1725859733::1725864258::1::::<><>::
+blackcatadventure-mountain-fall-landscape_watercolor.tga::CompressedTexture2D::6942207895992709588::1725859733::1725864259::1::::<><>::
+blackcatadventure-mountain-spring-landscape_watercolor.png::CompressedTexture2D::3224374220040063821::1725859733::1725864259::1::::<><>::
+blackcatadventure-mountain-spring-landscape_watercolor.tga::CompressedTexture2D::5957074559537467257::1725859733::1725864259::1::::<><>::
+blackcatadventure-mountain-summer-landscape_watercolor.png::CompressedTexture2D::2370106821874485113::1725859734::1725864259::1::::<><>::
+blackcatadventure-mountain-summer-landscape_watercolor.tga::CompressedTexture2D::9121315629967522699::1725859734::1725864260::1::::<><>::
+blackcatadventure-mountain-winter-landscape_watercolor2.png::CompressedTexture2D::2829320627271102916::1725859734::1725864260::1::::<><>::
+blackcatadventure-mountain-winter-landscape_watercolor2.tga::CompressedTexture2D::6473732748967680299::1725859734::1725864261::1::::<><>::
+blackcatadventure-mountain-winter-landscape_watercolor.png::CompressedTexture2D::7649786466343141922::1725859734::1725864252::1::::<><>::
+blackcatadventure-mountain-winter-landscape_watercolor.tga::CompressedTexture2D::4619846062321230166::1725859734::1725864252::1::::<><>::
+::res://Resources/Assets/Assets Mountains/backups/::1725859733
+BG-mountain-blues2.tga::CompressedTexture2D::1757118798436281132::1725859732::1725864279::1::::<><>::
+BG-mountain-blues.tga::CompressedTexture2D::954901552767586841::1725859732::1725864279::1::::<><>::
+BG-mountain-icey_blues2.tga::CompressedTexture2D::3920344276355492410::1725859732::1725864280::1::::<><>::
+BG-mountain-icey_blues.tga::CompressedTexture2D::2884928847535750753::1725859732::1725864280::1::::<><>::
+BG-mountain-large2.tga::CompressedTexture2D::2101066343412641124::1725859732::1725864280::1::::<><>::
+BG-mountain-large.tga::CompressedTexture2D::2478348257412534870::1725859732::1725864281::1::::<><>::
+BG-mountain-rainbow2.tga::CompressedTexture2D::6189263132294732328::1725859733::1725864281::1::::<><>::
+BG-mountain-rainbow-small.tga::CompressedTexture2D::3189304744877400484::1725859732::1725864281::1::::<><>::
+BG-mountain-rainbow.tga::CompressedTexture2D::4575756947592943276::1725859733::1725864282::1::::<><>::
+BG-mountain-small.tga::CompressedTexture2D::3704671264407506220::1725859733::1725864282::1::::<><>::
+blackcat-background-mountain-blues.tga::CompressedTexture2D::1681646638708819440::1725859733::1725864254::1::::<><>::
+blackcat-background-mountain-large.tga::CompressedTexture2D::3863790388477494660::1725859733::1725864253::1::::<><>::
+blackcat-background-mountain-rainbow.tga::CompressedTexture2D::51755705840289237::1725859733::1725864254::1::::<><>::
+blackcat-background-mountain-small.tga::CompressedTexture2D::5215942860529752749::1725859733::1725864254::1::::<><>::
+blackcatadventure-bg-rainbow.png::CompressedTexture2D::5355595184835424798::1725859733::1725864255::1::::<><>::
+blackcatadventure-bg-rainbow_slice.png::CompressedTexture2D::2016004942261116944::1725859733::1725864254::1::::<><>::
+blackcatadventure-bg-rainbow_slice_of_slice_and_blur.png::CompressedTexture2D::7090080940875747008::1725859733::1725864252::1::::<><>::
+blackcatadventure-mountain-blues.tga::CompressedTexture2D::546957007640881027::1725859733::1725864255::1::::<><>::
+blackcatadventure-mountain-fall-landscape.tga::CompressedTexture2D::5680584477224474695::1725859733::1725864255::1::::<><>::
+blackcatadventure-mountain-icey_blues.tga::CompressedTexture2D::7830447144580459280::1725859733::1725864256::1::::<><>::
+blackcatadventure-mountain-landscape.tga::CompressedTexture2D::8337215618133544126::1725859733::1725864256::1::::<><>::
+blackcatadventure-mountain-rainbow.tga::CompressedTexture2D::1214082504722077359::1725859733::1725864257::1::::<><>::
+blackcatadventure-mountain-spring-rainbow.tga::CompressedTexture2D::7328463687192526153::1725859733::1725864257::1::::<><>::
+blackcatadventure-mountain-summer-fall-landscape.tga::CompressedTexture2D::1360806423521051781::1725859733::1725864257::1::::<><>::
+blackcatadventure-mountain-summer-large.tga::CompressedTexture2D::1138670960891367237::1725859733::1725864258::1::::<><>::
+blackcatadventure-mountain-winter-blues.tga::CompressedTexture2D::3809514274365381613::1725859733::1725864259::1::::<><>::
+blackcatadventure-mountain-winter-icey_blue.tga::CompressedTexture2D::70159932537596503::1725859733::1725864258::1::::<><>::
+::res://Resources/Assets/Assets Objects/::1725859735
+blackcat-badge-50.tga::CompressedTexture2D::8151958298352487584::1725859734::1725864329::1::::<><>::
+coin_sprite.tga::CompressedTexture2D::739953974876391935::1725859734::1725864327::1::::<><>::
+graveyard-headstone.tga::CompressedTexture2D::6443879614536758377::1725859734::1725864330::1::::<><>::
+portal_door.tga::CompressedTexture2D::6230656836301499147::1725859735::1725864328::1::::<><>::
+potions.tga::CompressedTexture2D::9082467354056498319::1725859735::1725864329::1::::<><>::
+pumpkin.tga::CompressedTexture2D::7391780198570522127::1725859735::1725864330::1::::<><>::
+::res://Resources/Assets/Assets Objects/clouds/::1725859734
+blackcatadventure-cloudledge(1).tga::CompressedTexture2D::3818300971640572206::1725859734::1725864250::1::::<><>::
+blackcatadventure-cloudledge.tga::CompressedTexture2D::2386472470093508582::1725859734::1725864250::1::::<><>::
+blackcatadventure-cloudledge_fade_001.tga::CompressedTexture2D::8719188521566220820::1725859734::1725864250::1::::<><>::
+blackcatadventure-cloudledge_fade_002.tga::CompressedTexture2D::1545648741176481538::1725859734::1725864250::1::::<><>::
+blackcatadventure-cloudledge_fade_003.tga::CompressedTexture2D::4780475275733071377::1725859734::1725864250::1::::<><>::
+blackcatadventure-cloudledge_fade_004.tga::CompressedTexture2D::7258197331112968304::1725859734::1725864250::1::::<><>::
+blackcatadventure-cloudledge_fade_005.tga::CompressedTexture2D::412416456808203022::1725859734::1725864250::1::::<><>::
+blackcatadventure-cloudledge_fade_006.tga::CompressedTexture2D::3300723293231429260::1725859734::1725864250::1::::<><>::
+blackcatadventure-cloudledge_fade_007.tga::CompressedTexture2D::2229201079228876475::1725859734::1725864250::1::::<><>::
+blackcatadventure-cloudledge_fade_008.tga::CompressedTexture2D::7362936053727923547::1725859734::1725864250::1::::<><>::
+blackcatadventure-cloudledge_fade_009.tga::CompressedTexture2D::7514979297709387112::1725859734::1725864250::1::::<><>::
+blackcatadventure-cloudledge_fade_010.tga::CompressedTexture2D::7895643159013899670::1725859734::1725864250::1::::<><>::
+blackcatadventure-cloudledge_fade_011.tga::CompressedTexture2D::8466066353642892891::1725859734::1725864251::1::::<><>::
+blackcatadventure-cloudledge_fade_012.tga::CompressedTexture2D::2407174513182531750::1725859734::1725864251::1::::<><>::
+blackcatadventure-cloudledge_fade_013.tga::CompressedTexture2D::6705646342308847819::1725859734::1725864251::1::::<><>::
+blackcatadventure-cloudledge_fade_014.tga::CompressedTexture2D::6641531538742838404::1725859734::1725864251::1::::<><>::
+blackcatadventure-cloudledge_fade_015.tga::CompressedTexture2D::7358588245607106085::1725859734::1725864251::1::::<><>::
+blackcatadventure-cloudledge_fade_016.tga::CompressedTexture2D::3477273352267576975::1725859734::1725864251::1::::<><>::
+::res://Resources/Assets/Assets Objects/door/::1725859734
+portal_door(1).png::CompressedTexture2D::3069821604473793373::1725859734::1725864251::1::::<><>::
+portal_door.png::CompressedTexture2D::1224918783333825423::1725859734::1725864251::1::::<><>::
+portal_door.tga::CompressedTexture2D::3492220265912887489::1725859734::1725864251::1::::<><>::
+::res://Resources/Assets/Assets Objects/hats/::1725859734
+witch-hat_small.tga::CompressedTexture2D::5880128333218563235::1725859734::1725864251::1::::<><>::
+::res://Resources/Assets/Assets Objects/headstone/::1725859734
+graveyard-headstone(1).tga::CompressedTexture2D::1333486917768155751::1725859734::1725864253::1::::<><>::
+graveyard-headstone.tga::CompressedTexture2D::8301583912521678057::1725859734::1725864264::1::::<><>::
+graveyard-headstone_1.tga::CompressedTexture2D::5215364136964261736::1725859734::1725864264::1::::<><>::
+graveyard-headstone_2.tga::CompressedTexture2D::1414418619774206481::1725859734::1725864264::1::::<><>::
+::res://Resources/Assets/Assets Objects/house/::1725859734
+blackcatadventure-hauntedhouse(1).tga::CompressedTexture2D::905885785551865155::1725859734::1725864264::1::::<><>::
+blackcatadventure-hauntedhouse.tga::CompressedTexture2D::2152470173076181849::1725859734::1725864264::1::::<><>::
+blackcatadventure-hauntedhouse_black.png::CompressedTexture2D::7665125501843638604::1725859734::1725864265::1::::<><>::
+blackcatadventure-hauntedhouse_black.tga::CompressedTexture2D::142720862524367024::1725859734::1725864265::1::::<><>::
+blackcatadventure-hauntedhouse_blue_bright.tga::CompressedTexture2D::1232244598718153569::1725859734::1725864266::1::::<><>::
+blackcatadventure-hauntedhouse_dark.tga::CompressedTexture2D::1312075695375930732::1725859734::1725864266::1::::<><>::
+blackcatadventure-hauntedhouse_green_bright.tga::CompressedTexture2D::7695652484734347397::1725859734::1725864266::1::::<><>::
+blackcatadventure-hauntedhouse_lapiz_bright.tga::CompressedTexture2D::5510380900565247987::1725859734::1725864267::1::::<><>::
+blackcatadventure-hauntedhouse_purple.png::CompressedTexture2D::1785696554859520992::1725859734::1725864267::1::::<><>::
+blackcatadventure-hauntedhouse_purple.tga::CompressedTexture2D::1004610195273026652::1725859734::1725864267::1::::<><>::
+blackcatadventure-hauntedhouse_purple_bright.tga::CompressedTexture2D::6398607245806506111::1725859734::1725864267::1::::<><>::
+blackcatadventure-hauntedhouse_purple_lite.tga::CompressedTexture2D::6684408309290109191::1725859734::1725864268::1::::<><>::
+blackcatadventure-hauntedhouse_purple_red.tga::CompressedTexture2D::8634237501890568749::1725859734::1725864269::1::::<><>::
+blackcatadventure-hauntedhouse_red.tga::CompressedTexture2D::1964347063424593871::1725859734::1725864269::1::::<><>::
+blackcatadventure-hauntedhouse_red_bright.tga::CompressedTexture2D::2714874194714996504::1725859734::1725864269::1::::<><>::
+blackcatadventure-hauntedhouse_skyblue_bright.tga::CompressedTexture2D::7596286909403128366::1725859734::1725864269::1::::<><>::
+blackcatadventure-hauntedhouse_teal_bright.tga::CompressedTexture2D::1116760400335592305::1725859734::1725864270::1::::<><>::
+::res://Resources/Assets/Assets Objects/jackolantern/::1725859735
+jackolantern.tga::CompressedTexture2D::7777381240242478345::1725859735::1725864270::1::::<><>::
+jackolantern_smaller.tga::CompressedTexture2D::7716335240038780481::1725859735::1725864268::1::::<><>::
+::res://Resources/Assets/Assets Objects/Portal Key/::1725859734
+key_clipart.png::CompressedTexture2D::776372175357247665::1725859734::1725864268::1::::<><>::
+key_clipart_gold.png::CompressedTexture2D::1267898672762864810::1725859734::1725864268::1::::<><>::
+key_clipart_white.png::CompressedTexture2D::6545404869993571531::1725859734::1725864268::1::::<><>::
+key_grey2_clipart.png::CompressedTexture2D::5422393738932816529::1725859734::1725864268::1::::<><>::
+key_grey3_clipart.png::CompressedTexture2D::5054127151346323291::1725859734::1725864259::1::::<><>::
+key_grey_clipart.png::CompressedTexture2D::2678725268318220873::1725859734::1725864259::1::::<><>::
+::res://Resources/Assets/Assets Objects/potions/::1725859735
+potions2.png::CompressedTexture2D::1101213318923894154::1725859735::1725864260::1::::<><>::
+potions2.tga::CompressedTexture2D::5714671543977448104::1725859735::1725864260::1::::<><>::
+potions3.png::CompressedTexture2D::9208965981740249739::1725859735::1725864260::1::::<><>::
+potions3.tga::CompressedTexture2D::5966498325300208834::1725859735::1725864260::1::::<><>::
+potions4.tga::CompressedTexture2D::3357324410746720275::1725859735::1725864260::1::::<><>::
+potions(1).tga::CompressedTexture2D::6703514761789933723::1725859735::1725864261::1::::<><>::
+potions.png::CompressedTexture2D::6439343551406775220::1725859735::1725864261::1::::<><>::
+potions.tga::CompressedTexture2D::223419453484810217::1725859735::1725864260::1::::<><>::
+potions_blue.png::CompressedTexture2D::602412124140324017::1725859735::1725864261::1::::<><>::
+potions_blue.tga::CompressedTexture2D::161799725817873630::1725859735::1725864261::1::::<><>::
+potions_blue_small.tga::CompressedTexture2D::8990643208789424513::1725859735::1725864260::1::::<><>::
+potions_green.tga::CompressedTexture2D::4295072458839508177::1725859735::1725864262::1::::<><>::
+potions_green_clear.png::CompressedTexture2D::4773320943539706241::1725859735::1725864261::1::::<><>::
+potions_green_small.tga::CompressedTexture2D::1111042632009355534::1725859735::1725864261::1::::<><>::
+potions_pink.png::CompressedTexture2D::4789284265955565249::1725859735::1725864262::1::::<><>::
+potions_pink.tga::CompressedTexture2D::5843078163542138326::1725859735::1725864262::1::::<><>::
+potions_pink_small.tga::CompressedTexture2D::932954320697230629::1725859735::1725864261::1::::<><>::
+potions_purple.tga::CompressedTexture2D::537573099000842375::1725859735::1725864261::1::::<><>::
+potions_purple_clear.tga::CompressedTexture2D::1912313860395443316::1725859735::1725864261::1::::<><>::
+potions_purple_small.tga::CompressedTexture2D::4312738406797243684::1725859735::1725864261::1::::<><>::
+::res://Resources/Assets/Assets Objects/pumpkin/::1725859735
+pumpkin(1).tga::CompressedTexture2D::6473610849180684004::1725859735::1725864264::1::::<><>::
+pumpkin.tga::CompressedTexture2D::1449063359720206915::1725859735::1725864262::1::::<><>::
+pumpkin_small.tga::CompressedTexture2D::3814434961431778491::1725859735::1725864262::1::::<><>::
+::res://Resources/Assets/Assets Roads/::1725859735
+blackcatadventure-road-landscape.tga::CompressedTexture2D::7797659633229873612::1725859735::1725864328::1::::<><>::
+blackcatadventure-road-landscape_fall.png::CompressedTexture2D::5909454958100551504::1725859735::1725864329::1::::<><>::
+blackcatadventure-road-landscape_fallicepuddles.png::CompressedTexture2D::2206579100752413847::1725859735::1725864329::1::::<><>::
+blackcatadventure-road-landscape_icedandsnow.tga::CompressedTexture2D::469471962564208724::1725859735::1725864329::1::::<><>::
+blackcatadventure-road-landscape_spring2.png::CompressedTexture2D::2204134728567699942::1725859735::1725864329::1::::<><>::
+blackcatadventure-road-landscape_spring3.png::CompressedTexture2D::2676664480218487971::1725859735::1725864329::1::::<><>::
+blackcatadventure-road-landscape_spring4.png::CompressedTexture2D::3425612260749884273::1725859735::1725864329::1::::<><>::
+blackcatadventure-road-landscape_spring5.png::CompressedTexture2D::6191270673808448081::1725859735::1725864329::1::::<><>::
+blackcatadventure-road-landscape_spring.png::CompressedTexture2D::2197476988241863558::1725859735::1725864329::1::::<><>::
+blackcatadventure-road-landscape_summer.png::CompressedTexture2D::6784380150568877056::1725859735::1725864329::1::::<><>::
+::res://Resources/Assets/Assets Sounds/::1725859735
+coin.wav::AudioStreamWAV::5895880488620163200::1725859735::1725864359::1::::<><>::
+piano.wav::AudioStreamWAV::53611935388122711::1725859735::1725864359::1::::<><>::
+piano_cast_magic_test.mp3::AudioStreamMP3::1675432222588261205::1725859735::1725864204::1::::<><>::
+piano_fruit_pickup_test.mp3::AudioStreamMP3::7779734921581524821::1725859735::1725864204::1::::<><>::
+piano_key_pickup.mp3::AudioStreamMP3::3036044587053284089::1725859735::1725864204::1::::<><>::
+piano_pickup_magic_test.mp3::AudioStreamMP3::6825176873531310304::1725859735::1725864204::1::::<><>::
+piano_portal_Activated.mp3::AudioStreamMP3::2503862526656304273::1725859735::1725864204::1::::<><>::
+piano_throw_fruit.mp3::AudioStreamMP3::3492908015187782231::1725859735::1725864204::1::::<><>::
+::res://Resources/Assets/Assets Sounds/wav/::1725859735
+piano_base_cat_layer.mp3::AudioStreamMP3::2549013899358182260::1725859735::1725864204::1::::<><>::
+piano_base_cat_layer.wav::AudioStreamWAV::6729593163904405013::1725859735::1725864359::1::::<><>::
+piano_base_coins_pickup.mp3::AudioStreamMP3::4607045755055152539::1725859735::1725864204::1::::<><>::
+piano_base_coins_pickup.wav::AudioStreamWAV::5579002395243583408::1725859735::1725864359::1::::<><>::
+piano_base_coins_pickup_000.wav::AudioStreamWAV::2724732348439943376::1725859735::1725864359::1::::<><>::
+piano_base_coins_pickup_001.wav::AudioStreamWAV::1277840343102853315::1725859735::1725864359::1::::<><>::
+piano_cast_magic_001.wav::AudioStreamWAV::2338815347865294464::1725859735::1725864359::1::::<><>::
+piano_cast_magic_test.mp3::AudioStreamMP3::8245021235414322055::1725859735::1725864204::1::::<><>::
+piano_cast_magic_test.wav::AudioStreamWAV::4750501261699587903::1725859735::1725864359::1::::<><>::
+piano_fruit_pickup_001.wav::AudioStreamWAV::489714774969516028::1725859735::1725864359::1::::<><>::
+piano_fruit_pickup_test.mp3::AudioStreamMP3::1388563688409607246::1725859735::1725864204::1::::<><>::
+piano_fruit_pickup_test.wav::AudioStreamWAV::1378770713704230407::1725859735::1725864359::1::::<><>::
+piano_key_pickup.mp3::AudioStreamMP3::4980070576084731040::1725859735::1725864204::1::::<><>::
+piano_key_pickup.wav::AudioStreamWAV::4143044874399512655::1725859735::1725864359::1::::<><>::
+piano_pickup_magic_test.mp3::AudioStreamMP3::752302159626976149::1725859735::1725864204::1::::<><>::
+piano_pickup_magic_test.wav::AudioStreamWAV::1676515787236697318::1725859735::1725864359::1::::<><>::
+piano_portal_Activated.mp3::AudioStreamMP3::6136673479077535337::1725859735::1725864204::1::::<><>::
+piano_portal_Activated.wav::AudioStreamWAV::365054057806365978::1725859735::1725864359::1::::<><>::
+piano_throw_fruit.mp3::AudioStreamMP3::2609426118145386471::1725859735::1725864204::1::::<><>::
+piano_throw_fruit.wav::AudioStreamWAV::6983825732840703188::1725859735::1725864359::1::::<><>::
+piano_throw_fruit_001.wav::AudioStreamWAV::7813428684045277572::1725859735::1725864359::1::::<><>::
+::res://Resources/Assets/Assets Trees/::1725859739
+fall-tree-000.png::CompressedTexture2D::40818115309352613::1725859735::1725864334::1::::<><>::
+fall-tree-001.png::CompressedTexture2D::5288585252379576240::1725859735::1725864334::1::::<><>::
+fall-tree-002.png::CompressedTexture2D::8029562504613711017::1725859735::1725864333::1::::<><>::
+fall-tree-003.png::CompressedTexture2D::1632150001829734449::1725859735::1725864334::1::::<><>::
+fall-tree-004.png::CompressedTexture2D::2795555531304092030::1725859735::1725864334::1::::<><>::
+fall-tree-005.png::CompressedTexture2D::2654527246957557161::1725859735::1725864334::1::::<><>::
+fall-tree-006.png::CompressedTexture2D::8572314003274555407::1725859735::1725864321::1::::<><>::
+fall-tree-007.png::CompressedTexture2D::2564022228260126275::1725859735::1725864322::1::::<><>::
+fall-tree-008.png::CompressedTexture2D::4725249681019650800::1725859736::1725864322::1::::<><>::
+fall-tree-009.png::CompressedTexture2D::6179950058267855110::1725859736::1725864322::1::::<><>::
+fall-tree-010.png::CompressedTexture2D::9002252146620432353::1725859736::1725864324::1::::<><>::
+fall-tree.png::CompressedTexture2D::436203523541192938::1725859736::1725864323::1::::<><>::
+fall-tree.tga::CompressedTexture2D::1114316410981304747::1725859736::1725864321::1::::<><>::
+scarytree-002.png::CompressedTexture2D::4321207396123130956::1725859736::1725864323::1::::<><>::
+scarytree-002.tga::CompressedTexture2D::4805690370947030670::1725859736::1725864323::1::::<><>::
+scarytree-003.png::CompressedTexture2D::8549225220382865823::1725859736::1725864324::1::::<><>::
+scarytree-003.tga::CompressedTexture2D::7463524292942621706::1725859736::1725864324::1::::<><>::
+spring-tree.png::CompressedTexture2D::2496159917833464068::1725859736::1725864324::1::::<><>::
+spring-tree.tga::CompressedTexture2D::3906513988235392581::1725859736::1725864323::1::::<><>::
+spring_tree_000.png::CompressedTexture2D::6664722652323215782::1725859736::1725864327::1::::<><>::
+spring_tree_001.png::CompressedTexture2D::6087862634527279921::1725859736::1725864327::1::::<><>::
+spring_tree_002.png::CompressedTexture2D::4042531269470446698::1725859736::1725864328::1::::<><>::
+spring_tree_003.png::CompressedTexture2D::8706801383033545340::1725859736::1725864328::1::::<><>::
+spring_tree_004.png::CompressedTexture2D::592134118614992553::1725859736::1725864328::1::::<><>::
+spring_tree_005.png::CompressedTexture2D::4475921667978093564::1725859736::1725864328::1::::<><>::
+spring_tree_006.png::CompressedTexture2D::5120515114965880370::1725859736::1725864328::1::::<><>::
+spring_tree_007.png::CompressedTexture2D::7315204173749232067::1725859736::1725864329::1::::<><>::
+spring_tree_008.png::CompressedTexture2D::2823842636053921423::1725859736::1725864347::1::::<><>::
+spring_tree_009.png::CompressedTexture2D::5264625283667736902::1725859736::1725864348::1::::<><>::
+spring_tree_010.png::CompressedTexture2D::5993211551929673331::1725859736::1725864348::1::::<><>::
+spring_tree_011.png::CompressedTexture2D::3741213803032257615::1725859736::1725864348::1::::<><>::
+spring_tree_012.png::CompressedTexture2D::8778385102536160692::1725859736::1725864349::1::::<><>::
+spring_tree_013.png::CompressedTexture2D::5885099117428209549::1725859736::1725864352::1::::<><>::
+spring_tree_014.png::CompressedTexture2D::1636679118398929354::1725859736::1725864352::1::::<><>::
+spring_tree_015.png::CompressedTexture2D::692041490899997179::1725859736::1725864352::1::::<><>::
+spring_tree_016.png::CompressedTexture2D::3466913402719972661::1725859736::1725864352::1::::<><>::
+spring_tree_017.png::CompressedTexture2D::7888861655827151405::1725859736::1725864353::1::::<><>::
+spring_tree_018.png::CompressedTexture2D::5497864033621536621::1725859736::1725864353::1::::<><>::
+summer-tree2.png::CompressedTexture2D::3120883710864344635::1725859739::1725864351::1::::<><>::
+summer-tree2.tga::CompressedTexture2D::3835466833528055853::1725859739::1725864351::1::::<><>::
+summer-tree-000.png::CompressedTexture2D::2801295116501364142::1725859737::1725864355::1::::<><>::
+summer-tree-001.png::CompressedTexture2D::6786522210555038487::1725859737::1725864356::1::::<><>::
+summer-tree-002.png::CompressedTexture2D::4469517167575400897::1725859737::1725864356::1::::<><>::
+summer-tree-003.png::CompressedTexture2D::6295046902517559100::1725859737::1725864358::1::::<><>::
+summer-tree-004.png::CompressedTexture2D::3974582784337742865::1725859737::1725864357::1::::<><>::
+summer-tree-005.png::CompressedTexture2D::6092023545031250026::1725859737::1725864357::1::::<><>::
+summer-tree-006.png::CompressedTexture2D::9099504151302009243::1725859737::1725864357::1::::<><>::
+summer-tree-007.png::CompressedTexture2D::453923409994212660::1725859737::1725864357::1::::<><>::
+summer-tree-008.png::CompressedTexture2D::7552178833249573317::1725859737::1725864356::1::::<><>::
+summer-tree-009.png::CompressedTexture2D::8935119088809419::1725859737::1725864334::1::::<><>::
+summer-tree-010.png::CompressedTexture2D::8948557570445027355::1725859737::1725864335::1::::<><>::
+summer-tree-011.png::CompressedTexture2D::5049332210828287179::1725859737::1725864338::1::::<><>::
+summer-tree-012.png::CompressedTexture2D::280714054876488583::1725859737::1725864338::1::::<><>::
+summer-tree-013.png::CompressedTexture2D::162402706154438242::1725859737::1725864338::1::::<><>::
+summer-tree-014.png::CompressedTexture2D::3094054016371468551::1725859737::1725864338::1::::<><>::
+summer-tree-015.png::CompressedTexture2D::1136263614689429707::1725859737::1725864339::1::::<><>::
+summer-tree-016.png::CompressedTexture2D::441317118439864640::1725859737::1725864339::1::::<><>::
+summer-tree-017.png::CompressedTexture2D::486095376487939279::1725859737::1725864339::1::::<><>::
+summer-tree-018.png::CompressedTexture2D::5656453235441572211::1725859737::1725864339::1::::<><>::
+summer-tree-019.png::CompressedTexture2D::6555249887653352926::1725859737::1725864342::1::::<><>::
+summer-tree-020.png::CompressedTexture2D::4475351757710491261::1725859737::1725864343::1::::<><>::
+summer-tree-021.png::CompressedTexture2D::3125215679231822611::1725859737::1725864343::1::::<><>::
+summer-tree-022.png::CompressedTexture2D::4651473994296838450::1725859737::1725864343::1::::<><>::
+summer-tree-023.png::CompressedTexture2D::688110412966519666::1725859737::1725864343::1::::<><>::
+summer-tree-024.png::CompressedTexture2D::4183769279529202296::1725859737::1725864344::1::::<><>::
+summer-tree-025.png::CompressedTexture2D::8722796177225256555::1725859737::1725864344::1::::<><>::
+summer-tree-026.png::CompressedTexture2D::800490721611303176::1725859737::1725864344::1::::<><>::
+summer-tree-027.png::CompressedTexture2D::7369266453443034307::1725859737::1725864347::1::::<><>::
+summer-tree-028.png::CompressedTexture2D::6576750333875143035::1725859737::1725864347::1::::<><>::
+summer-tree-029.png::CompressedTexture2D::4286184887513911348::1725859737::1725864347::1::::<><>::
+summer-tree-030.png::CompressedTexture2D::4118719536771440997::1725859737::1725864300::1::::<><>::
+summer-tree-031.png::CompressedTexture2D::7692416957999989346::1725859737::1725864301::1::::<><>::
+summer-tree-032.png::CompressedTexture2D::1846421353982123226::1725859737::1725864301::1::::<><>::
+summer-tree-033.png::CompressedTexture2D::1753397029218547306::1725859737::1725864301::1::::<><>::
+summer-tree-034.png::CompressedTexture2D::3856128550731215310::1725859737::1725864301::1::::<><>::
+summer-tree-035.png::CompressedTexture2D::7395119916738639359::1725859738::1725864301::1::::<><>::
+summer-tree-036.png::CompressedTexture2D::749746691474161707::1725859738::1725864303::1::::<><>::
+summer-tree-037.png::CompressedTexture2D::330563791436714653::1725859738::1725864303::1::::<><>::
+summer-tree-038.png::CompressedTexture2D::3031301318522493435::1725859738::1725864305::1::::<><>::
+summer-tree-039.png::CompressedTexture2D::1074444958643277707::1725859738::1725864305::1::::<><>::
+summer-tree-040.png::CompressedTexture2D::2781310594587550754::1725859738::1725864306::1::::<><>::
+summer-tree-041.png::CompressedTexture2D::59769494480899419::1725859738::1725864305::1::::<><>::
+summer-tree-042.png::CompressedTexture2D::2631488602325491460::1725859738::1725864306::1::::<><>::
+summer-tree-043.png::CompressedTexture2D::6964051178745647011::1725859738::1725864306::1::::<><>::
+summer-tree-044.png::CompressedTexture2D::4561433250848196649::1725859738::1725864307::1::::<><>::
+summer-tree-045.png::CompressedTexture2D::1403593536234432187::1725859738::1725864308::1::::<><>::
+summer-tree-046.png::CompressedTexture2D::7245353590233489387::1725859738::1725864309::1::::<><>::
+summer-tree-047.png::CompressedTexture2D::9051186949396083576::1725859738::1725864310::1::::<><>::
+summer-tree-048.png::CompressedTexture2D::5358188705922260046::1725859738::1725864310::1::::<><>::
+summer-tree-049.png::CompressedTexture2D::3289777038238438471::1725859738::1725864310::1::::<><>::
+summer-tree-050.png::CompressedTexture2D::5655429183817406065::1725859738::1725864311::1::::<><>::
+summer-tree-051.png::CompressedTexture2D::8717091821396537381::1725859738::1725864311::1::::<><>::
+summer-tree-052.png::CompressedTexture2D::3485129436122284634::1725859738::1725864312::1::::<><>::
+summer-tree-053.png::CompressedTexture2D::6498437675084263620::1725859738::1725864312::1::::<><>::
+summer-tree-054.png::CompressedTexture2D::1216520770916838611::1725859738::1725864314::1::::<><>::
+summer-tree-055.png::CompressedTexture2D::1373099450673512228::1725859738::1725864287::1::::<><>::
+summer-tree-056.png::CompressedTexture2D::685976238205031754::1725859738::1725864287::1::::<><>::
+summer-tree-057.png::CompressedTexture2D::999542572037768970::1725859738::1725864287::1::::<><>::
+summer-tree-058.png::CompressedTexture2D::25860529460536805::1725859738::1725864287::1::::<><>::
+summer-tree-059.png::CompressedTexture2D::1766706055089700166::1725859738::1725864287::1::::<><>::
+summer-tree-060.png::CompressedTexture2D::5928637903969876091::1725859738::1725864287::1::::<><>::
+summer-tree-061.png::CompressedTexture2D::3596343151498925231::1725859738::1725864287::1::::<><>::
+summer-tree-062.png::CompressedTexture2D::199611987658685427::1725859738::1725864289::1::::<><>::
+summer-tree-063.png::CompressedTexture2D::6456201892410064479::1725859738::1725864292::1::::<><>::
+summer-tree-064.png::CompressedTexture2D::6774152512484955818::1725859738::1725864291::1::::<><>::
+summer-tree-065.png::CompressedTexture2D::2942795835597509781::1725859738::1725864292::1::::<><>::
+summer-tree-066.png::CompressedTexture2D::5627469329629505137::1725859738::1725864292::1::::<><>::
+summer-tree-067.png::CompressedTexture2D::1169202276372435504::1725859738::1725864292::1::::<><>::
+summer-tree-068.png::CompressedTexture2D::2238159901088123984::1725859739::1725864292::1::::<><>::
+summer-tree-069.png::CompressedTexture2D::2038911253951795519::1725859739::1725864292::1::::<><>::
+summer-tree-070.png::CompressedTexture2D::8720891189939440384::1725859739::1725864293::1::::<><>::
+summer-tree-071.png::CompressedTexture2D::5201002549368215593::1725859739::1725864296::1::::<><>::
+summer-tree-072.png::CompressedTexture2D::6724534231706972444::1725859739::1725864296::1::::<><>::
+summer-tree-073.png::CompressedTexture2D::8249966942203737541::1725859739::1725864296::1::::<><>::
+summer-tree-074.png::CompressedTexture2D::119164617128846750::1725859739::1725864296::1::::<><>::
+summer-tree-075.png::CompressedTexture2D::8876177635983752714::1725859739::1725864297::1::::<><>::
+summer-tree-076.png::CompressedTexture2D::267818630460842881::1725859739::1725864296::1::::<><>::
+summer-tree-077.png::CompressedTexture2D::387409004353308599::1725859739::1725864297::1::::<><>::
+summer-tree-078.png::CompressedTexture2D::4096240467480842265::1725859739::1725864298::1::::<><>::
+summer-tree.png::CompressedTexture2D::2661217735404443603::1725859739::1725864298::1::::<><>::
+summer-tree.tga::CompressedTexture2D::4065265725524622026::1725859739::1725864314::1::::<><>::
+winter-tree.png::CompressedTexture2D::8574126577079022346::1725859739::1725864315::1::::<><>::
+winter-tree.tga::CompressedTexture2D::4887112535445474066::1725859739::1725864314::1::::<><>::
+::res://Resources/Assets/Assets UX Menu/::1725859739
+pawprint_purple_disabled_004.png::CompressedTexture2D::5595420653475253991::1725859739::1725864313::1::::<><>::
+pawprint_purple_main_001.png::CompressedTexture2D::2778077938262891066::1725859739::1725864313::1::::<><>::
+pawprint_purple_main_002.png::CompressedTexture2D::2925586438495143804::1725859739::1725864313::1::::<><>::
+pawprint_purple_main_003.png::CompressedTexture2D::7557688818537969419::1725859739::1725864313::1::::<><>::
+pawprint_purple_main_004.png::CompressedTexture2D::7649467498335847201::1725859739::1725864313::1::::<><>::
+::res://Resources/Assets/Assets Weapon Magic Ball/::1725859740
+a.tga::CompressedTexture2D::4057832994685778975::1725859739::1725864315::1::::<><>::
+b.tga::CompressedTexture2D::8779076122435303654::1725859739::1725864315::1::::<><>::
+c.tga::CompressedTexture2D::3397898322129747391::1725859739::1725864315::1::::<><>::
+d.tga::CompressedTexture2D::331900139846792612::1725859739::1725864315::1::::<><>::
+e.tga::CompressedTexture2D::1620561888008800192::1725859739::1725864315::1::::<><>::
+f.tga::CompressedTexture2D::3595004546804293660::1725859739::1725864316::1::::<><>::
+g.tga::CompressedTexture2D::7993389006636581227::1725859739::1725864316::1::::<><>::
+h.tga::CompressedTexture2D::1808135749320302577::1725859739::1725864317::1::::<><>::
+i.tga::CompressedTexture2D::8388055969648158863::1725859739::1725864316::1::::<><>::
+j.tga::CompressedTexture2D::5466823698137837649::1725859739::1725864317::1::::<><>::
+magic_ball.tga::CompressedTexture2D::5985170530900645479::1725859739::1725864318::1::::<><>::
+magic_ball_blue.tga::CompressedTexture2D::2464655777198744386::1725859739::1725864320::1::::<><>::
+magic_ball_green.tga::CompressedTexture2D::708548328909197010::1725859740::1725864320::1::::<><>::
+magic_ball_pink.tga::CompressedTexture2D::6680269854878352289::1725859740::1725864319::1::::<><>::
+magic_ball_purple.tga::CompressedTexture2D::958979421761291504::1725859740::1725864320::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/::1725859742
+IMG_20191030_205949_01.png::CompressedTexture2D::3021179933959797147::1725859740::1725864239::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/catNEW/::1725859740
+background.png::CompressedTexture2D::7970449022808245953::1725859740::1725864316::1::::<><>::
+cat_slide_001.png::CompressedTexture2D::6037022014450819064::1725859740::1725864317::1::::<><>::
+cat_slide_002.png::CompressedTexture2D::3268699296660261337::1725859740::1725864317::1::::<><>::
+cat_slide_003.png::CompressedTexture2D::1080906546149367367::1725859740::1725864310::1::::<><>::
+cat_slide_004.png::CompressedTexture2D::3350259683247691075::1725859740::1725864310::1::::<><>::
+cat_slide_005.png::CompressedTexture2D::4774346543890496561::1725859740::1725864311::1::::<><>::
+cat_slide_006.png::CompressedTexture2D::6884602177608889443::1725859740::1725864311::1::::<><>::
+cat_slide_007.png::CompressedTexture2D::2222880665698891929::1725859740::1725864311::1::::<><>::
+cat_slide_008.png::CompressedTexture2D::5581185509605455737::1725859740::1725864311::1::::<><>::
+cat_slide_009.png::CompressedTexture2D::3546383096392977231::1725859740::1725864311::1::::<><>::
+cat_slide_010.png::CompressedTexture2D::7206352031264130228::1725859740::1725864311::1::::<><>::
+cat_slide_011.png::CompressedTexture2D::4907964420327905724::1725859740::1725864312::1::::<><>::
+cat_slide_012.png::CompressedTexture2D::5115548828415066646::1725859740::1725864311::1::::<><>::
+cat_slide_013.png::CompressedTexture2D::1689299931098019792::1725859740::1725864312::1::::<><>::
+cat_slide_014.png::CompressedTexture2D::7509677180354632365::1725859740::1725864312::1::::<><>::
+cat_slide_015.png::CompressedTexture2D::4555797015225969465::1725859740::1725864312::1::::<><>::
+cat_slide_016.png::CompressedTexture2D::7964137419150856703::1725859740::1725864312::1::::<><>::
+cat_slide_017.png::CompressedTexture2D::790004290640281546::1725859740::1725864312::1::::<><>::
+cat_slide_018.png::CompressedTexture2D::4152633003234747847::1725859740::1725864312::1::::<><>::
+cat_slide_019.png::CompressedTexture2D::4937936759762790494::1725859740::1725864312::1::::<><>::
+cat_slide_020.png::CompressedTexture2D::9022118881520800988::1725859740::1725864312::1::::<><>::
+cat_slide_021.png::CompressedTexture2D::6253058676246857207::1725859740::1725864312::1::::<><>::
+cat_slide_022.png::CompressedTexture2D::7713265896465004751::1725859740::1725864313::1::::<><>::
+cat_slide_023.png::CompressedTexture2D::8420406095985383600::1725859740::1725864313::1::::<><>::
+cat_slide_024.png::CompressedTexture2D::5808186594698172721::1725859740::1725864313::1::::<><>::
+cat_slide_025.png::CompressedTexture2D::4574571612792916548::1725859740::1725864313::1::::<><>::
+cat_slide_026.png::CompressedTexture2D::4702390610734250078::1725859740::1725864313::1::::<><>::
+cat_slide_027.png::CompressedTexture2D::1016144544779981717::1725859740::1725864313::1::::<><>::
+cat_slide_028.png::CompressedTexture2D::4019252573172273568::1725859740::1725864219::1::::<><>::
+cat_slide_029.png::CompressedTexture2D::2985694526295791253::1725859740::1725864220::1::::<><>::
+cat_slide_030.png::CompressedTexture2D::8800326642611163037::1725859740::1725864219::1::::<><>::
+cat_slide_031.png::CompressedTexture2D::3270687621810127484::1725859740::1725864220::1::::<><>::
+cat_slide_032.png::CompressedTexture2D::2845472470965088925::1725859740::1725864220::1::::<><>::
+cat_slide_033.png::CompressedTexture2D::5988478428011860439::1725859740::1725864221::1::::<><>::
+cat_slide_034.png::CompressedTexture2D::7361670052800180079::1725859740::1725864221::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/cat_Amber/::1725859741
+cat_oscar_animation_frames.png::CompressedTexture2D::8947325860879864271::1725859741::1725864237::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/cat_Amber/Black Cat Adventures 2 FF 3/::1725859741
+Black Cat Adventures 2 FF 3-01.jpg::CompressedTexture2D::4326822213557294217::1725859740::1725864226::1::::<><>::
+Black Cat Adventures 2 FF 3-01.png::CompressedTexture2D::8760751415805359377::1725859740::1725864230::1::::<><>::
+Black Cat Adventures 2 FF 3-01.svg::CompressedTexture2D::2515717825378647771::1725859740::1725864223::1::::<><>::
+Black Cat Adventures 2 FF 3-02.jpg::CompressedTexture2D::2570920156495692281::1725859740::1725864227::1::::<><>::
+Black Cat Adventures 2 FF 3-02.png::CompressedTexture2D::1775641579183349920::1725859740::1725864230::1::::<><>::
+Black Cat Adventures 2 FF 3-02.svg::CompressedTexture2D::4408624573935766012::1725859740::1725864225::1::::<><>::
+Black Cat Adventures 2 FF 3-03.jpg::CompressedTexture2D::3979391281795538990::1725859740::1725864228::1::::<><>::
+Black Cat Adventures 2 FF 3-03.png::CompressedTexture2D::3060557548759716443::1725859740::1725864232::1::::<><>::
+Black Cat Adventures 2 FF 3-03.svg::CompressedTexture2D::3034965696107070857::1725859740::1725864227::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/cat_Amber/Black Cat Adventures FF/::1725859741
+Black Cat Adventures FF-01.jpg::CompressedTexture2D::289347119060506738::1725859741::1725864231::1::::<><>::
+Black Cat Adventures FF-01.png::CompressedTexture2D::6803706440418257839::1725859741::1725864233::1::::<><>::
+Black Cat Adventures FF-01.svg::CompressedTexture2D::762345543949898406::1725859741::1725864228::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/cat_Amber/frames/::1725859741
+Black Cat Adventures FF 2-01.png::CompressedTexture2D::6418995918015381447::1725859741::1725864234::1::::<><>::
+Black Cat Adventures FF 2-02.png::CompressedTexture2D::7845606533336882449::1725859741::1725864235::1::::<><>::
+Black Cat Adventures FF 2-03.png::CompressedTexture2D::6365549550107931710::1725859741::1725864236::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/cat_Amber/output_sit/::1725859741
+cat_oscar_sit_001.PNG::CompressedTexture2D::9149843350459084201::1725859741::1725864231::1::::<><>::
+cat_oscar_sit_002.PNG::CompressedTexture2D::7389821406386741237::1725859741::1725864232::1::::<><>::
+cat_oscar_sit_003.PNG::CompressedTexture2D::5933569696279975172::1725859741::1725864232::1::::<><>::
+cat_oscar_sit_004.PNG::CompressedTexture2D::5224397564965495692::1725859741::1725864233::1::::<><>::
+cat_oscar_sit_005.PNG::CompressedTexture2D::4259758177335001638::1725859741::1725864212::1::::<><>::
+cat_oscar_sit_006.PNG::CompressedTexture2D::8742222758224056021::1725859741::1725864212::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/cat_Amber/output_walk/::1725859741
+cat_oscar_walk_001_a.PNG::CompressedTexture2D::1662943340808857655::1725859741::1725864214::1::::<><>::
+cat_oscar_walk_001_b.PNG::CompressedTexture2D::2257526374999911645::1725859741::1725864214::1::::<><>::
+cat_oscar_walk_001_c.PNG::CompressedTexture2D::345225587030572228::1725859741::1725864215::1::::<><>::
+cat_oscar_walk_001_d.PNG::CompressedTexture2D::7406210443521008302::1725859741::1725864216::1::::<><>::
+cat_oscar_walk_001_e.PNG::CompressedTexture2D::6228787352419435085::1725859741::1725864216::1::::<><>::
+cat_oscar_walk_001_f.PNG::CompressedTexture2D::4096792196598848891::1725859741::1725864214::1::::<><>::
+cat_oscar_walk_001_g.PNG::CompressedTexture2D::4207943589825160017::1725859741::1725864215::1::::<><>::
+cat_oscar_walk_001_h.PNG::CompressedTexture2D::2583636436192706357::1725859741::1725864216::1::::<><>::
+cat_oscar_walk_001_i.PNG::CompressedTexture2D::79573526330569436::1725859741::1725864216::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/cat_Amber/output_walk_test/::1725859741
+cat_oscar_walk_001.PNG::CompressedTexture2D::4334004190594385722::1725859741::1725864216::1::::<><>::
+cat_oscar_walk_002.PNG::CompressedTexture2D::2559503102973872748::1725859741::1725864216::1::::<><>::
+cat_oscar_walk_003.PNG::CompressedTexture2D::7121767787566025162::1725859741::1725864217::1::::<><>::
+cat_oscar_walk_004.PNG::CompressedTexture2D::5016604501541973580::1725859741::1725864217::1::::<><>::
+cat_oscar_walk_005.PNG::CompressedTexture2D::5390341098310160762::1725859741::1725864218::1::::<><>::
+cat_oscar_walk_006.PNG::CompressedTexture2D::2795749672701422782::1725859741::1725864218::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/cat_Amber/testers/::1725859741
+Black Cat Adventures FF 2-01.jpg::CompressedTexture2D::505453168328726571::1725859741::1725864222::1::::<><>::
+Black Cat Adventures FF 2-01.svg::CompressedTexture2D::2028255179483766038::1725859741::1725864218::1::::<><>::
+Black Cat Adventures FF 2-02.jpg::CompressedTexture2D::1161759478688815184::1725859741::1725864223::1::::<><>::
+Black Cat Adventures FF 2-02.svg::CompressedTexture2D::2207429783226972707::1725859741::1725864218::1::::<><>::
+Black Cat Adventures FF 2-03.jpg::CompressedTexture2D::201281502410914494::1725859741::1725864224::1::::<><>::
+Black Cat Adventures FF 2-03.svg::CompressedTexture2D::2223067852455191589::1725859741::1725864219::1::::<><>::
+Black%20Cat%20Adventures%20FF-01-2.jpg::CompressedTexture2D::5118133587420792394::1725859741::1725864226::1::::<><>::
+body_facing_left.png::CompressedTexture2D::5327481559709696005::1725859741::1725864218::1::::<><>::
+Capture_cat_1.PNG::CompressedTexture2D::6592442759561876707::1725859741::1725864218::1::::<><>::
+Capture_cat_2.PNG::CompressedTexture2D::3724020702558881391::1725859741::1725864236::1::::<><>::
+Capture_cat_3.PNG::CompressedTexture2D::8501770315114516077::1725859741::1725864236::1::::<><>::
+cat_Capture2.PNG::CompressedTexture2D::8073773583667147854::1725859741::1725864236::1::::<><>::
+cat_Capture3.PNG::CompressedTexture2D::8375116023916006213::1725859741::1725864236::1::::<><>::
+cat_Capture.PNG::CompressedTexture2D::5255143945800648595::1725859741::1725864236::1::::<><>::
+frame1.png::CompressedTexture2D::507372324911296465::1725859741::1725864239::1::::<><>::
+frame2.png::CompressedTexture2D::534453477903547939::1725859741::1725864238::1::::<><>::
+frame3.png::CompressedTexture2D::5912327161976609068::1725859741::1725864236::1::::<><>::
+head_facing_forward.png::CompressedTexture2D::558914547724435280::1725859741::1725864236::1::::<><>::
+head_facing_left.png::CompressedTexture2D::6848550299099774440::1725859741::1725864236::1::::<><>::
+head_turning_frame.png::CompressedTexture2D::3725180518589675842::1725859741::1725864236::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_001_ghost/::1725859742
+creature_001_ghost_eyes_down.png::CompressedTexture2D::2629792568974629076::1725859741::1725864236::1::::<><>::
+creature_001_ghost_eyes_forward.png::CompressedTexture2D::6480712377049110183::1725859741::1725864236::1::::<><>::
+creature_001_ghost_eyes_forward_moveA.png::CompressedTexture2D::866680058604701705::1725859741::1725864237::1::::<><>::
+creature_001_ghost_eyes_forward_moveB.png::CompressedTexture2D::3049985283222840455::1725859741::1725864237::1::::<><>::
+creature_001_ghost_eyes_forward_moveC.png::CompressedTexture2D::8825705359825818407::1725859741::1725864237::1::::<><>::
+creature_001_ghost_eyes_forward_moveD.png::CompressedTexture2D::1456828880640385234::1725859741::1725864237::1::::<><>::
+creature_001_ghost_eyes_left.png::CompressedTexture2D::1731205876486163573::1725859741::1725864237::1::::<><>::
+creature_001_ghost_eyes_right.png::CompressedTexture2D::2326989876257340815::1725859742::1725864237::1::::<><>::
+creature_001_ghost_eyes_up.png::CompressedTexture2D::2949487534245201877::1725859742::1725864237::1::::<><>::
+IMG_20190826_172635_01.png::CompressedTexture2D::3323294520701052586::1725859741::1725864237::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_001_ghost (copy)/::1725859741
+creature_001_ghost_eyes_down.png::CompressedTexture2D::4671931398885862831::1725859741::1725864237::1::::<><>::
+creature_001_ghost_eyes_forward.png::CompressedTexture2D::2245406454266745340::1725859741::1725864237::1::::<><>::
+creature_001_ghost_eyes_forward_moveA.png::CompressedTexture2D::1164487496882465221::1725859741::1725864237::1::::<><>::
+creature_001_ghost_eyes_forward_moveB.png::CompressedTexture2D::3232309128364339377::1725859741::1725864237::1::::<><>::
+creature_001_ghost_eyes_forward_moveC.png::CompressedTexture2D::2431631534124738010::1725859741::1725864232::1::::<><>::
+creature_001_ghost_eyes_forward_moveD.png::CompressedTexture2D::8928398057365158042::1725859741::1725864232::1::::<><>::
+creature_001_ghost_eyes_left.png::CompressedTexture2D::2612869526104098112::1725859741::1725864232::1::::<><>::
+creature_001_ghost_eyes_right.png::CompressedTexture2D::175008177982769575::1725859741::1725864232::1::::<><>::
+creature_001_ghost_eyes_up.png::CompressedTexture2D::3039906527478472778::1725859741::1725864232::1::::<><>::
+IMG_20190826_172635_01.png::CompressedTexture2D::2461449276980600344::1725859741::1725864233::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_002_bat_wings_wide/::1725859742
+bat_slide_001.png::CompressedTexture2D::7221320512668062839::1725859742::1725864233::1::::<><>::
+bat_slide_002.png::CompressedTexture2D::4632556503090382371::1725859742::1725864233::1::::<><>::
+bat_slide_003.png::CompressedTexture2D::8768111741420075316::1725859742::1725864233::1::::<><>::
+bat_slide_004.png::CompressedTexture2D::8179265648680489427::1725859742::1725864234::1::::<><>::
+bat_slide_005.png::CompressedTexture2D::1492956620333268347::1725859742::1725864234::1::::<><>::
+bat_slide_006.png::CompressedTexture2D::5118527977364181776::1725859742::1725864234::1::::<><>::
+bat_slide_007.png::CompressedTexture2D::8162684602747984073::1725859742::1725864234::1::::<><>::
+bat_slide_008.png::CompressedTexture2D::2639007400553228300::1725859742::1725864234::1::::<><>::
+bat_slide_009.png::CompressedTexture2D::3446862258156434996::1725859742::1725864235::1::::<><>::
+IMG_20190822_121201_01.png::CompressedTexture2D::6785538238703250653::1725859742::1725864234::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_003_moth/::1725859742
+IMG_20190904_200123_01.png::CompressedTexture2D::1002172312943101572::1725859742::1725864234::1::::<><>::
+moth_slide_00.png::CompressedTexture2D::1178392295065905919::1725859742::1725864235::1::::<><>::
+moth_slide_001.png::CompressedTexture2D::7409936228136487971::1725859742::1725864235::1::::<><>::
+moth_slide_002.png::CompressedTexture2D::8209736704403130365::1725859742::1725864235::1::::<><>::
+moth_slide_003.png::CompressedTexture2D::3310447667649764553::1725859742::1725864235::1::::<><>::
+moth_slide_004.png::CompressedTexture2D::7512624272872067146::1725859742::1725864236::1::::<><>::
+moth_slide_005.png::CompressedTexture2D::7059040449659995461::1725859742::1725864236::1::::<><>::
+moth_slide_006.png::CompressedTexture2D::7684347171073644996::1725859742::1725864236::1::::<><>::
+moth_slide_007.png::CompressedTexture2D::7680196486059136160::1725859742::1725864236::1::::<><>::
+moth_slide_008.png::CompressedTexture2D::4052905316453015829::1725859742::1725864236::1::::<><>::
+moth_slide_009.png::CompressedTexture2D::9190319646198732160::1725859742::1725864207::1::::<><>::
+moth_slide_010.png::CompressedTexture2D::8078744333405430072::1725859742::1725864207::1::::<><>::
+moth_slide_011.png::CompressedTexture2D::3863056178243309662::1725859742::1725864207::1::::<><>::
+moth_slide_012.png::CompressedTexture2D::8307572333193058251::1725859742::1725864207::1::::<><>::
+moth_slide_013.png::CompressedTexture2D::5884362995586185228::1725859742::1725864208::1::::<><>::
+moth_slide_014.png::CompressedTexture2D::8390191119899331277::1725859742::1725864208::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_004_mouse_brown_blue/::1725859742
+creature_004_eyes_open_eyes_closed.png::CompressedTexture2D::1240788714294508073::1725859742::1725864206::1::::<><>::
+creature_004_eyes_open_eyes_closed_ears_down.png::CompressedTexture2D::1527933817897123248::1725859742::1725864207::1::::<><>::
+creature_004_eyes_open_eyes_down.png::CompressedTexture2D::3246061996091220082::1725859742::1725864207::1::::<><>::
+creature_004_eyes_open_eyes_forward.png::CompressedTexture2D::5235704996349249843::1725859742::1725864207::1::::<><>::
+creature_004_eyes_open_eyes_forward_ears_down.png::CompressedTexture2D::6029151103114578202::1725859742::1725864207::1::::<><>::
+creature_004_eyes_open_eyes_forward_legs_half_up.png::CompressedTexture2D::8313199418084096565::1725859742::1725864207::1::::<><>::
+creature_004_eyes_open_eyes_forward_legs_up.png::CompressedTexture2D::6335526398335021304::1725859742::1725864207::1::::<><>::
+creature_004_eyes_open_eyes_left.png::CompressedTexture2D::6450059038858779995::1725859742::1725864207::1::::<><>::
+creature_004_eyes_open_eyes_right.png::CompressedTexture2D::2147311731898264758::1725859742::1725864208::1::::<><>::
+creature_004_eyes_open_eyes_squint.png::CompressedTexture2D::8511004530127157410::1725859742::1725864208::1::::<><>::
+creature_004_eyes_open_eyes_squint_ears_down.png::CompressedTexture2D::8267457078636613726::1725859742::1725864208::1::::<><>::
+creature_004_eyes_open_eyes_squint_narrow.png::CompressedTexture2D::2152335518335929500::1725859742::1725864208::1::::<><>::
+creature_004_eyes_open_eyes_squint_narrow_ears_down.png::CompressedTexture2D::5650043497170684825::1725859742::1725864208::1::::<><>::
+creature_004_eyes_open_eyes_up.png::CompressedTexture2D::2382898731749777544::1725859742::1725864208::1::::<><>::
+IMG_20190925_084005_01.png::CompressedTexture2D::4753126652512041728::1725859742::1725864208::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_005_bug/::1725859742
+IMG_20190925_084000_01.png::CompressedTexture2D::4453084678324047013::1725859742::1725864208::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_006_mouse/::1725859742
+IMG_20190925_084008_01.png::CompressedTexture2D::8364094853507924474::1725859742::1725864208::1::::<><>::
+IMG_mouse_grey_slide_000.png::CompressedTexture2D::404183607732793669::1725859742::1725864208::1::::<><>::
+IMG_mouse_grey_slide_001.png::CompressedTexture2D::5385607835168912029::1725859742::1725864205::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_007_cat/::1725859742
+IMG_20190925_084126_01.png::CompressedTexture2D::9165488608842414004::1725859742::1725864205::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_008/::1725859742
+IMG_20190925_084128_01.png::CompressedTexture2D::899958094652091474::1725859742::1725864205::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_009_cat/::1725859742
+IMG_20190925_084133_01.png::CompressedTexture2D::6888397274215940383::1725859742::1725864205::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_010_rabbit/::1725859742
+IMG_20190925_084135_01.png::CompressedTexture2D::6013914907400349970::1725859742::1725864205::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_011/::1725859742
+IMG_20190925_084137_01.png::CompressedTexture2D::3090526820366670287::1725859742::1725864205::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_012_deer/::1725859742
+IMG_20190925_084251_01.png::CompressedTexture2D::3439124991372762475::1725859742::1725864205::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_013/::1725859742
+IMG_20190929_060507_01.png::CompressedTexture2D::8615956918471065251::1725859742::1725864205::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_014/::1725859742
+IMG_20191001_184959_01.png::CompressedTexture2D::2045657911459565097::1725859742::1725864206::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_015/::1725859742
+IMG_20190929_060511_01.png::CompressedTexture2D::1822377098260396781::1725859742::1725864206::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_016/::1725859742
+IMG_20191030_093519_01.png::CompressedTexture2D::8190958473930746137::1725859742::1725864206::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_017/::1725859742
+IMG_20191030_093523_01.png::CompressedTexture2D::5589316794597493501::1725859742::1725864206::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_018/::1725859742
+IMG_20191030_093659_01.png::CompressedTexture2D::8551801635107161316::1725859742::1725864206::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_019_mouse/::1725859742
+IMG_20191030_093705_01.png::CompressedTexture2D::8216254129225263260::1725859742::1725864206::1::::<><>::
+mouse_layer_001.png::CompressedTexture2D::8943811687558249745::1725859742::1725864205::1::::<><>::
+mouse_layer_002.png::CompressedTexture2D::4523647171777428784::1725859742::1725864206::1::::<><>::
+mouse_layer_003.png::CompressedTexture2D::8940432794893610043::1725859742::1725864206::1::::<><>::
+mouse_layer_004.png::CompressedTexture2D::8004364692369308471::1725859742::1725864206::1::::<><>::
+mouse_layer_005.png::CompressedTexture2D::7853443078543169288::1725859742::1725864206::1::::<><>::
+mouse_layer_006.png::CompressedTexture2D::555942508423618036::1725859742::1725864206::1::::<><>::
+mouse_layer_007.png::CompressedTexture2D::5189334132508280191::1725859742::1725864206::1::::<><>::
+mouse_layer_008.png::CompressedTexture2D::254275484735075170::1725859742::1725864209::1::::<><>::
+mouse_layer_009.png::CompressedTexture2D::2656553488167525063::1725859742::1725864209::1::::<><>::
+mouse_layer_010.png::CompressedTexture2D::3582952344720294224::1725859742::1725864210::1::::<><>::
+mouse_layer_011.png::CompressedTexture2D::2772132730782338479::1725859742::1725864210::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_020_owl/::1725859742
+IMG_20191030_093510_01.png::CompressedTexture2D::8498196630293744801::1725859742::1725864210::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_021/::1725859742
+IMG_20191030_093516_01.png::CompressedTexture2D::136416759660554018::1725859742::1725864210::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_022/::1725859742
+IMG_20191030_093526_01.png::CompressedTexture2D::8322614155983368605::1725859742::1725864210::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_023/::1725859742
+IMG_20191030_093528_01.png::CompressedTexture2D::1821085086293665805::1725859742::1725864211::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_024/::1725859742
+IMG_20191030_093701_01.png::CompressedTexture2D::7536120191486246127::1725859742::1725864211::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_025/::1725859742
+IMG_20191030_093708_01.png::CompressedTexture2D::1446623924336927812::1725859742::1725864211::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_026_mouse/::1725859742
+IMG_20191030_205945_01.png::CompressedTexture2D::643553374179299392::1725859742::1725864211::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_027/::1725859742
+IMG_20191030_205947_01.png::CompressedTexture2D::8090836095618894917::1725859742::1725864211::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_028/::1725859742
+IMG_20190925_084243_01.png::CompressedTexture2D::5849514532038135502::1725859742::1725864211::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_029_bat/::1725859742
+IMG_20190925_084249_01.png::CompressedTexture2D::1162710182065332903::1725859742::1725864211::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_30_mouse/::1725859742
+IMG_20191030_205940_01.png::CompressedTexture2D::647389934911505498::1725859742::1725864211::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_31_mouse/::1725859742
+IMG_20191030_205942_01.png::CompressedTexture2D::1029422091356315539::1725859742::1725864211::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/creature_32_/::1725859742
+IMG_20191030_205944_01.png::CompressedTexture2D::1061456034511889835::1725859742::1725864211::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/OLD_cat/::1725859740
+black-cat-sit-a-closed-eye-lefteye.png::CompressedTexture2D::2889078116862458052::1725859740::1725864213::1::::<><>::
+black-cat-sit-a-closed-eye-righteye.png::CompressedTexture2D::4168299820757440766::1725859740::1725864213::1::::<><>::
+black-cat-sit-a-closed-eyes.png::CompressedTexture2D::767897555554861730::1725859740::1725864213::1::::<><>::
+black-cat-sit-a-headtil-left-closed-righteye.png::CompressedTexture2D::2758840774640463375::1725859740::1725864213::1::::<><>::
+black-cat-sit-a-headtilt-left-closed-eyes.png::CompressedTexture2D::5857166344323306379::1725859740::1725864213::1::::<><>::
+black-cat-sit-a-headtilt-left-closed-lefteye.png::CompressedTexture2D::1262668487331131020::1725859740::1725864214::1::::<><>::
+black-cat-sit-a-headtilt-left.png::CompressedTexture2D::7806972010302051421::1725859740::1725864210::1::::<><>::
+black-cat-sit-a-headtilt-right-closed-eye-righteye.png::CompressedTexture2D::1332532446730746134::1725859740::1725864210::1::::<><>::
+black-cat-sit-a-headtilt-right-closed-eyes.png::CompressedTexture2D::4406298235843347545::1725859740::1725864210::1::::<><>::
+black-cat-sit-a-headtilt-right-closed-lefteye.png::CompressedTexture2D::609736942514759394::1725859740::1725864210::1::::<><>::
+black-cat-sit-a-headtilt-right.png::CompressedTexture2D::7339372847193673727::1725859740::1725864211::1::::<><>::
+black-cat-sit-a.png::CompressedTexture2D::7929624722300387369::1725859740::1725864208::1::::<><>::
+black-cat-sit-b.png::CompressedTexture2D::4919167943887045787::1725859740::1725864208::1::::<><>::
+black-cat-sit-c.png::CompressedTexture2D::8461333629028806879::1725859740::1725864208::1::::<><>::
+black-cat-sit-d.png::CompressedTexture2D::5205476580172776426::1725859740::1725864208::1::::<><>::
+black-cat-sit-e.png::CompressedTexture2D::8028074514539874437::1725859740::1725864208::1::::<><>::
+black-cat-sit.png::CompressedTexture2D::2256441534939382124::1725859740::1725864208::1::::<><>::
+black-cat-sit_z.png::CompressedTexture2D::2081193165454543236::1725859740::1725864208::1::::<><>::
+black-cat-walk-a.png::CompressedTexture2D::5889267766749314093::1725859740::1725864208::1::::<><>::
+black-cat-walk-b.png::CompressedTexture2D::4738404823517836433::1725859740::1725864208::1::::<><>::
+black-cat-walk-c.png::CompressedTexture2D::6156947741220181049::1725859740::1725864209::1::::<><>::
+black-cat-walk-d.png::CompressedTexture2D::4357109936823796060::1725859740::1725864209::1::::<><>::
+black-cat-walk-e.png::CompressedTexture2D::6735704200536009622::1725859740::1725864209::1::::<><>::
+black-cat-walk-f.png::CompressedTexture2D::4520312911692252554::1725859740::1725864209::1::::<><>::
+black-cat-walk.png::CompressedTexture2D::8693233709385129456::1725859740::1725864209::1::::<><>::
+blackcat.png::CompressedTexture2D::297391624242029256::1725859740::1725864209::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/photos/::1725859742
+IMG_20191030_093510_01.png::CompressedTexture2D::6909766406264806120::1725859742::1725864245::1::::<><>::
+IMG_20191030_093516_01.png::CompressedTexture2D::2752263644901702028::1725859742::1725864245::1::::<><>::
+IMG_20191030_093519_01.png::CompressedTexture2D::6589577473394048364::1725859742::1725864245::1::::<><>::
+IMG_20191030_093523_01.png::CompressedTexture2D::4261247575253719468::1725859742::1725864245::1::::<><>::
+IMG_20191030_093526_01.png::CompressedTexture2D::3145236351846268977::1725859742::1725864245::1::::<><>::
+IMG_20191030_093528_01.png::CompressedTexture2D::2631598910545573972::1725859742::1725864245::1::::<><>::
+IMG_20191030_093659_01.png::CompressedTexture2D::4910738366545422959::1725859742::1725864245::1::::<><>::
+IMG_20191030_093701_01.png::CompressedTexture2D::1535764044577312579::1725859742::1725864245::1::::<><>::
+IMG_20191030_093705_01.png::CompressedTexture2D::9162843659463477647::1725859742::1725864245::1::::<><>::
+IMG_20191030_093708_01.png::CompressedTexture2D::4008076212512429799::1725859742::1725864245::1::::<><>::
+IMG_20191030_205940_01.png::CompressedTexture2D::6525402062088981927::1725859742::1725864245::1::::<><>::
+IMG_20191030_205942_01.png::CompressedTexture2D::6549154258012044796::1725859742::1725864245::1::::<><>::
+IMG_20191030_205944_01.png::CompressedTexture2D::1754440435654346131::1725859742::1725864240::1::::<><>::
+IMG_20191030_205945_01.png::CompressedTexture2D::4384992599772269680::1725859742::1725864240::1::::<><>::
+IMG_20191030_205947_01.png::CompressedTexture2D::4944151248289302557::1725859742::1725864240::1::::<><>::
+IMG_20191030_205949_01.png::CompressedTexture2D::3987101795925849600::1725859742::1725864240::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/photos/Photos(1)/::1725859742
+IMG_20190925_084000_01.png::CompressedTexture2D::164157672323631340::1725859742::1725864209::1::::<><>::
+IMG_20190925_084005_01.png::CompressedTexture2D::6945361030843244226::1725859742::1725864209::1::::<><>::
+IMG_20190925_084008_01.png::CompressedTexture2D::4523544586356245546::1725859742::1725864243::1::::<><>::
+IMG_20190925_084126_01.png::CompressedTexture2D::3177576747461846844::1725859742::1725864243::1::::<><>::
+IMG_20190925_084128_01.png::CompressedTexture2D::4452098449034458020::1725859742::1725864243::1::::<><>::
+IMG_20190925_084133_01.png::CompressedTexture2D::8995812381379420910::1725859742::1725864243::1::::<><>::
+IMG_20190925_084135_01.png::CompressedTexture2D::2409084318519784442::1725859742::1725864243::1::::<><>::
+IMG_20190925_084137_01.png::CompressedTexture2D::8337698205875332062::1725859742::1725864244::1::::<><>::
+IMG_20190925_084243_01.png::CompressedTexture2D::667316687837525104::1725859742::1725864244::1::::<><>::
+IMG_20190925_084249_01.png::CompressedTexture2D::1710285954720063026::1725859742::1725864244::1::::<><>::
+IMG_20190925_084251_01.png::CompressedTexture2D::4702664909279088261::1725859742::1725864244::1::::<><>::
+IMG_20190929_060507_01.png::CompressedTexture2D::6146832857855915010::1725859742::1725864245::1::::<><>::
+IMG_20190929_060511_01.png::CompressedTexture2D::8815775841646668218::1725859742::1725864244::1::::<><>::
+IMG_20191001_184959_01.png::CompressedTexture2D::456864066394207490::1725859742::1725864245::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/photos/Photos(2)/::1725859742
+IMG_20190822_121201_01.png::CompressedTexture2D::5965126776122413034::1725859742::1725864244::1::::<><>::
+IMG_20190826_172635_01.png::CompressedTexture2D::2909369436709486667::1725859742::1725864244::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/PlayerCharacter_BlackCat_Sitting/::1725859740
+black-cat-sit-a-closed-eye-lefteye.png::CompressedTexture2D::1927912727848622766::1725859740::1725864242::1::::<><>::
+black-cat-sit-a-closed-eye-righteye.png::CompressedTexture2D::4424502505776757858::1725859740::1725864242::1::::<><>::
+black-cat-sit-a-closed-eyes.png::CompressedTexture2D::7201280655011525955::1725859740::1725864242::1::::<><>::
+black-cat-sit-a-headtil-left-closed-righteye.png::CompressedTexture2D::6217340733838135165::1725859740::1725864242::1::::<><>::
+black-cat-sit-a-headtilt-left-closed-eyes.png::CompressedTexture2D::7511074482163887915::1725859740::1725864242::1::::<><>::
+black-cat-sit-a-headtilt-left-closed-lefteye.png::CompressedTexture2D::4042667375087078915::1725859740::1725864242::1::::<><>::
+black-cat-sit-a-headtilt-left.png::CompressedTexture2D::5794060026739010410::1725859740::1725864242::1::::<><>::
+black-cat-sit-a-headtilt-right-closed-eye-righteye.png::CompressedTexture2D::4368842264594004495::1725859740::1725864242::1::::<><>::
+black-cat-sit-a-headtilt-right-closed-eyes.png::CompressedTexture2D::8064193294407556467::1725859740::1725864244::1::::<><>::
+black-cat-sit-a-headtilt-right-closed-lefteye.png::CompressedTexture2D::1182506232789224982::1725859740::1725864244::1::::<><>::
+black-cat-sit-a-headtilt-right.png::CompressedTexture2D::4330633012069011596::1725859740::1725864244::1::::<><>::
+black-cat-sit.png::CompressedTexture2D::8083182124166829651::1725859740::1725864244::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/PlayerCharacter_BlackCat_Sitting/backups/::1725859740
+black-cat-sit-a.png::CompressedTexture2D::1720643305479671969::1725859740::1725864240::1::::<><>::
+black-cat-sit-b.png::CompressedTexture2D::8762446870053259557::1725859740::1725864240::1::::<><>::
+black-cat-sit-c.png::CompressedTexture2D::3434304901453856943::1725859740::1725864240::1::::<><>::
+black-cat-sit-d.png::CompressedTexture2D::6084685210869272160::1725859740::1725864240::1::::<><>::
+black-cat-sit-e.png::CompressedTexture2D::8472498469362221906::1725859740::1725864240::1::::<><>::
+black-cat-sit.png::CompressedTexture2D::7047460833932150048::1725859740::1725864240::1::::<><>::
+black-cat-sit_z.png::CompressedTexture2D::4719587051976642341::1725859740::1725864240::1::::<><>::
+blackcat.png::CompressedTexture2D::4235175844359285619::1725859740::1725864240::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/PlayerCharacter_BlackCat_Walking/::1725859740
+::res://Resources/Assets/Creature Redesgined Gallery/PlayerCharacter_BlackCat_Walking/backups/::1725859740
+black-cat-walk-a.png::CompressedTexture2D::4329582966849538231::1725859740::1725864244::1::::<><>::
+black-cat-walk-b.png::CompressedTexture2D::2481848904691226280::1725859740::1725864244::1::::<><>::
+black-cat-walk-c.png::CompressedTexture2D::3579511660448566713::1725859740::1725864249::1::::<><>::
+black-cat-walk-d.png::CompressedTexture2D::8542372200811675967::1725859740::1725864249::1::::<><>::
+black-cat-walk-e.png::CompressedTexture2D::2966092948564466483::1725859740::1725864250::1::::<><>::
+black-cat-walk-f.png::CompressedTexture2D::1811786625263366045::1725859740::1725864249::1::::<><>::
+black-cat-walk.png::CompressedTexture2D::6506392699505856576::1725859740::1725864250::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/PlayerCharacter_Black_Cat/::1725859740
+black-cat-sit-a.png::CompressedTexture2D::6469857290866642507::1725859740::1725864248::1::::<><>::
+black-cat-sit-b.png::CompressedTexture2D::6400078909949019451::1725859740::1725864248::1::::<><>::
+black-cat-sit-c.png::CompressedTexture2D::3037633044199587008::1725859740::1725864248::1::::<><>::
+black-cat-sit-d.png::CompressedTexture2D::6661930736878534369::1725859740::1725864248::1::::<><>::
+black-cat-sit-e.png::CompressedTexture2D::5300248392255715111::1725859740::1725864248::1::::<><>::
+black-cat-sit.png::CompressedTexture2D::422123223038239150::1725859740::1725864248::1::::<><>::
+black-cat-sit_z.png::CompressedTexture2D::6520804067040585063::1725859740::1725864248::1::::<><>::
+black-cat-walk-a.png::CompressedTexture2D::6381296772512023443::1725859740::1725864248::1::::<><>::
+black-cat-walk-b.png::CompressedTexture2D::4003747558468201488::1725859740::1725864248::1::::<><>::
+black-cat-walk-c.png::CompressedTexture2D::8794068241899340768::1725859740::1725864248::1::::<><>::
+black-cat-walk-d.png::CompressedTexture2D::1680487073674732813::1725859740::1725864248::1::::<><>::
+black-cat-walk-e.png::CompressedTexture2D::2425565707117786009::1725859740::1725864248::1::::<><>::
+black-cat-walk-f.png::CompressedTexture2D::9218030655151996346::1725859740::1725864248::1::::<><>::
+black-cat-walk.png::CompressedTexture2D::2282339517988570593::1725859740::1725864248::1::::<><>::
+blackcat.png::CompressedTexture2D::4174270092031880457::1725859740::1725864248::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/postions_blue/::1725859742
+potions_slide_001.png::CompressedTexture2D::3364545579999433186::1725859742::1725864249::1::::<><>::
+potions_slide_002.png::CompressedTexture2D::2288523752323199335::1725859742::1725864249::1::::<><>::
+potions_slide_003.png::CompressedTexture2D::1028458578121028696::1725859742::1725864249::1::::<><>::
+potions_slide_004.png::CompressedTexture2D::2525674714588742879::1725859742::1725864250::1::::<><>::
+potions_slide_005.png::CompressedTexture2D::7247245625515958652::1725859742::1725864250::1::::<><>::
+potions_slide_006.png::CompressedTexture2D::9100845882110609748::1725859742::1725864250::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/postions_green/::1725859742
+potions_slide_001.png::CompressedTexture2D::5363294121445881086::1725859742::1725864250::1::::<><>::
+potions_slide_002.png::CompressedTexture2D::6782416526565821188::1725859742::1725864246::1::::<><>::
+potions_slide_003.png::CompressedTexture2D::193783103934521274::1725859742::1725864246::1::::<><>::
+potions_slide_004.png::CompressedTexture2D::7489365125373272230::1725859742::1725864246::1::::<><>::
+potions_slide_005.png::CompressedTexture2D::6725450186810156283::1725859742::1725864246::1::::<><>::
+potions_slide_006.png::CompressedTexture2D::5229685567224359727::1725859742::1725864246::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/postions_pink/::1725859742
+potions_slide_001.png::CompressedTexture2D::6334248990444005134::1725859742::1725864246::1::::<><>::
+potions_slide_002.png::CompressedTexture2D::9007132925330006267::1725859742::1725864246::1::::<><>::
+potions_slide_003.png::CompressedTexture2D::1215231778375435423::1725859742::1725864246::1::::<><>::
+potions_slide_004.png::CompressedTexture2D::514468577435820836::1725859742::1725864247::1::::<><>::
+potions_slide_005.png::CompressedTexture2D::7753660993746893958::1725859742::1725864247::1::::<><>::
+potions_slide_006.png::CompressedTexture2D::5055217628742138101::1725859742::1725864247::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/postions_purple/::1725859742
+potions_slide_001.png::CompressedTexture2D::7132662754934154825::1725859742::1725864247::1::::<><>::
+potions_slide_002.png::CompressedTexture2D::1960615023575396073::1725859742::1725864247::1::::<><>::
+potions_slide_003.png::CompressedTexture2D::4562928040753254506::1725859742::1725864247::1::::<><>::
+potions_slide_004.png::CompressedTexture2D::2304760591210068703::1725859742::1725864247::1::::<><>::
+potions_slide_005.png::CompressedTexture2D::1283128965784467625::1725859742::1725864247::1::::<><>::
+potions_slide_006.png::CompressedTexture2D::6201956266810701043::1725859742::1725864247::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/squirrel/::1725859742
+squirrel_slide_001.png::CompressedTexture2D::8004542618409574023::1725859742::1725864247::1::::<><>::
+squirrel_slide_002.png::CompressedTexture2D::9065309209526141960::1725859742::1725864247::1::::<><>::
+squirrel_slide_003.png::CompressedTexture2D::1560746454955888503::1725859742::1725864247::1::::<><>::
+squirrel_slide_004.png::CompressedTexture2D::3389692796113377413::1725859742::1725864247::1::::<><>::
+squirrel_slide_005.png::CompressedTexture2D::3324439568795456572::1725859742::1725864247::1::::<><>::
+squirrel_slide_006.png::CompressedTexture2D::5422151720611508010::1725859742::1725864247::1::::<><>::
+squirrel_slide_007.png::CompressedTexture2D::3418832847143707422::1725859742::1725864247::1::::<><>::
+squirrel_slide_008.png::CompressedTexture2D::7371372586646873785::1725859742::1725864247::1::::<><>::
+squirrel_slide_009.png::CompressedTexture2D::1599638084388785688::1725859742::1725864248::1::::<><>::
+squirrel_slide_010.png::CompressedTexture2D::2075786123707110199::1725859742::1725864238::1::::<><>::
+squirrel_slide_011.png::CompressedTexture2D::5299588037153345276::1725859742::1725864237::1::::<><>::
+squirrel_slide_012.png::CompressedTexture2D::842340832282025329::1725859742::1725864237::1::::<><>::
+squirrel_slide_013.png::CompressedTexture2D::4817603650877131072::1725859742::1725864237::1::::<><>::
+squirrel_slide_014.png::CompressedTexture2D::4165895156933779959::1725859742::1725864237::1::::<><>::
+squirrel_slide_015.png::CompressedTexture2D::3606389666510781966::1725859742::1725864237::1::::<><>::
+squirrel_slide_016.png::CompressedTexture2D::5461573819172268389::1725859742::1725864238::1::::<><>::
+squirrel_slide_017.png::CompressedTexture2D::3953386620339924316::1725859742::1725864238::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/uber-grid/::1725859742
+composer.json::JSON::-1::1725859742::0::1::::<><>::
+readme.txt::TextFile::-1::1725859742::0::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/uber-grid/assets/::1725859742
+::res://Resources/Assets/Creature Redesgined Gallery/uber-grid/assets/images/::1725859742
+::res://Resources/Assets/Creature Redesgined Gallery/uber-grid/assets/images/2/::1725859742
+controls.png::CompressedTexture2D::787885675799521334::1725859742::1725864237::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/uber-grid/assets/images/3/::1725859742
+controls.png::CompressedTexture2D::5282419136097402313::1725859742::1725864237::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/uber-grid/assets/images/4/::1725859742
+border1.png::CompressedTexture2D::1844956853955927906::1725859742::1725864237::1::::<><>::
+border2.png::CompressedTexture2D::7120640488524683770::1725859742::1725864238::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/uber-grid/assets/images/5/::1725859742
+border.png::CompressedTexture2D::157157562951917712::1725859742::1725864238::1::::<><>::
+controls.png::CompressedTexture2D::8107955088941980967::1725859742::1725864238::1::::<><>::
+loading_background.png::CompressedTexture2D::7605961445811652245::1725859742::1725864238::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/uber-grid/assets/images/admin/::1725859742
+05-bottom-line.png::CompressedTexture2D::1902948834250589508::1725859742::1725864238::1::::<><>::
+arrow.dark.png::CompressedTexture2D::2846058227799392681::1725859742::1725864238::1::::<><>::
+arrow.light.png::CompressedTexture2D::2155713985293621860::1725859742::1725864238::1::::<><>::
+border.png::CompressedTexture2D::2153016435617684537::1725859742::1725864238::1::::<><>::
+close.popup.dark.png::CompressedTexture2D::3531270230116586191::1725859742::1725864238::1::::<><>::
+close.popup.light.png::CompressedTexture2D::5087444164445449812::1725859742::1725864238::1::::<><>::
+controls.png::CompressedTexture2D::1314129775954656203::1725859742::1725864238::1::::<><>::
+delete1.png::CompressedTexture2D::7331324147512400790::1725859742::1725864238::1::::<><>::
+delete2.png::CompressedTexture2D::860125111789898003::1725859742::1725864238::1::::<><>::
+delete3.png::CompressedTexture2D::8436638348595616618::1725859742::1725864238::1::::<><>::
+delete.png::CompressedTexture2D::6304197487409484264::1725859742::1725864238::1::::<><>::
+divider.line.png::CompressedTexture2D::3330244467427157682::1725859742::1725864237::1::::<><>::
+edit1.png::CompressedTexture2D::5194230852678234512::1725859742::1725864237::1::::<><>::
+edit3.png::CompressedTexture2D::2244577612475737889::1725859742::1725864237::1::::<><>::
+edit-icon1.png::CompressedTexture2D::9004062681717309951::1725859742::1725864237::1::::<><>::
+edit.png::CompressedTexture2D::7432933937644978813::1725859742::1725864237::1::::<><>::
+fields.opt.png::CompressedTexture2D::2022958349461430723::1725859742::1725864237::1::::<><>::
+gradient.black.to.white.png::CompressedTexture2D::1438845303130640536::1725859742::1725864237::1::::<><>::
+icon-img.png::CompressedTexture2D::5945660570395583532::1725859742::1725864237::1::::<><>::
+icon-video.png::CompressedTexture2D::1394662428078646570::1725859742::1725864237::1::::<><>::
+icon-video_blue.png::CompressedTexture2D::4333173758617349895::1725859742::1725864237::1::::<><>::
+left.png::CompressedTexture2D::8790697139392422388::1725859742::1725864237::1::::<><>::
+loading_background.png::CompressedTexture2D::4327212194437499670::1725859742::1725864237::1::::<><>::
+menu.dark.png::CompressedTexture2D::7467592613686529782::1725859742::1725864237::1::::<><>::
+menu.light.png::CompressedTexture2D::2465902891678231676::1725859742::1725864237::1::::<><>::
+move.png::CompressedTexture2D::1001376892095960217::1725859742::1725864237::1::::<><>::
+nav-icon.png::CompressedTexture2D::2677194757705325765::1725859742::1725864237::1::::<><>::
+nav.png::CompressedTexture2D::7743512510632045452::1725859742::1725864237::1::::<><>::
+No-image-found.jpg::CompressedTexture2D::6091799606634680431::1725859742::1725864237::1::::<><>::
+noimage.jpg::CompressedTexture2D::6757337896309716790::1725859742::1725864237::1::::<><>::
+open-close.dark.png::CompressedTexture2D::6739323473213594711::1725859742::1725864237::1::::<><>::
+open-close.light.png::CompressedTexture2D::4373481849753070154::1725859742::1725864237::1::::<><>::
+overlay.png::CompressedTexture2D::299724075675959125::1725859742::1725864237::1::::<><>::
+play.png::CompressedTexture2D::21442695952686430::1725859742::1725864237::1::::<><>::
+play.vimeo.png::CompressedTexture2D::657355775693939449::1725859742::1725864237::1::::<><>::
+play.youtube.png::CompressedTexture2D::6415170931892938866::1725859742::1725864237::1::::<><>::
+plus.png::CompressedTexture2D::4980775305067340814::1725859742::1725864237::1::::<><>::
+portfolio-active-left.png::CompressedTexture2D::5435586145282531535::1725859742::1725864239::1::::<><>::
+portfolio-active.png::CompressedTexture2D::130223429284749607::1725859742::1725864239::1::::<><>::
+portfolio-passive.png::CompressedTexture2D::7555858705745210414::1725859742::1725864239::1::::<><>::
+portfolio-pro-icon.png::CompressedTexture2D::7149542638448017995::1725859742::1725864239::1::::<><>::
+remove.jpg::CompressedTexture2D::2489765189533518792::1725859742::1725864239::1::::<><>::
+right.png::CompressedTexture2D::2328215415293119771::1725859742::1725864239::1::::<><>::
+share0.png::CompressedTexture2D::5203098432896149178::1725859742::1725864239::1::::<><>::
+share1.png::CompressedTexture2D::4227159137995413259::1725859742::1725864239::1::::<><>::
+share(1).png::CompressedTexture2D::1594548772235892498::1725859742::1725864239::1::::<><>::
+smallicon.png::CompressedTexture2D::8413147826607237682::1725859742::1725864239::1::::<><>::
+stop.png::CompressedTexture2D::4867691164908928823::1725859742::1725864239::1::::<><>::
+store-next.png::CompressedTexture2D::8266533313814938985::1725859742::1725864239::1::::<><>::
+store-prev.png::CompressedTexture2D::847993571232719901::1725859742::1725864239::1::::<><>::
+stverlist2.png::CompressedTexture2D::8778550461808973103::1725859742::1725864239::1::::<><>::
+stverlist.png::CompressedTexture2D::4149374414627086971::1725859742::1725864239::1::::<><>::
+video.icon.png::CompressedTexture2D::8776368202709423502::1725859742::1725864239::1::::<><>::
+view_list.png::CompressedTexture2D::8017556876772717138::1725859742::1725864239::1::::<><>::
+view_thumbs.png::CompressedTexture2D::411765889043883834::1725859742::1725864239::1::::<><>::
+zoom.dark.png::CompressedTexture2D::2527676593265692983::1725859742::1725864239::1::::<><>::
+zoom.light.png::CompressedTexture2D::6892948065258331309::1725859742::1725864239::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/uber-grid/assets/images/defaultImages/::1725859742
+::res://Resources/Assets/Creature Redesgined Gallery/uber-grid/assets/images/defaultImages/projects/::1725859742
+autumn-2.jpg::CompressedTexture2D::267498925927163459::1725859742::1725864239::1::::<><>::
+designer-1.jpg::CompressedTexture2D::5574628042971346676::1725859742::1725864239::1::::<><>::
+designer-2.jpg::CompressedTexture2D::1099865197213191619::1725859742::1725864240::1::::<><>::
+designer-3.jpg::CompressedTexture2D::4407435768559876145::1725859742::1725864239::1::::<><>::
+drone-1.jpg::CompressedTexture2D::1872874063032647041::1725859742::1725864239::1::::<><>::
+drone-2.jpg::CompressedTexture2D::9207443625049158330::1725859742::1725864239::1::::<><>::
+drone-3.jpg::CompressedTexture2D::5064024125081807078::1725859742::1725864238::1::::<><>::
+headphone-1.jpg::CompressedTexture2D::4343063006076294838::1725859742::1725864238::1::::<><>::
+headphone-2.jpg::CompressedTexture2D::483324810686924642::1725859742::1725864238::1::::<><>::
+headphone-3.jpg::CompressedTexture2D::5880819947153094225::1725859742::1725864238::1::::<><>::
+huawei-1.jpg::CompressedTexture2D::6606332123857010949::1725859742::1725864238::1::::<><>::
+huawei-2.jpg::CompressedTexture2D::5037472562027628620::1725859742::1725864238::1::::<><>::
+huawei-3.jpg::CompressedTexture2D::9031579843392719628::1725859742::1725864238::1::::<><>::
+music-1.jpg::CompressedTexture2D::1994919283860729438::1725859742::1725864238::1::::<><>::
+music-2.jpg::CompressedTexture2D::9006573624745965287::1725859742::1725864238::1::::<><>::
+music-3.jpg::CompressedTexture2D::7549789066549086486::1725859742::1725864238::1::::<><>::
+portfolio-1.jpg::CompressedTexture2D::946920549544256848::1725859742::1725864239::1::::<><>::
+portfolio-2.jpg::CompressedTexture2D::3565499771986446369::1725859742::1725864239::1::::<><>::
+portfolio-3.jpg::CompressedTexture2D::2251370250181702313::1725859742::1725864239::1::::<><>::
+volkswagen-1.jpg::CompressedTexture2D::3282165235076616254::1725859742::1725864239::1::::<><>::
+volkswagen-2.jpg::CompressedTexture2D::3198461972951307853::1725859742::1725864239::1::::<><>::
+volkswagen-3.jpg::CompressedTexture2D::1692157822968622156::1725859742::1725864239::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/uber-grid/assets/images/jscolor/::1725859742
+hs.png::CompressedTexture2D::385271110953308016::1725859742::1725864238::1::::<><>::
+hv.png::CompressedTexture2D::6236823988146462894::1725859742::1725864239::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/uber-grid/assets/images/loading/::1725859742
+loading-1.svg::CompressedTexture2D::6330480335977572793::1725859742::1725864239::1::::<><>::
+loading-2.svg::CompressedTexture2D::6774075963326513023::1725859742::1725864239::1::::<><>::
+loading-3.svg::CompressedTexture2D::1140449268524146617::1725859742::1725864239::1::::<><>::
+loading-4.svg::CompressedTexture2D::2766125733916621678::1725859742::1725864239::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/uber-grid/assets/js/::1725859742
+::res://Resources/Assets/Creature Redesgined Gallery/uber-grid/assets/style/::1725859742
+::res://Resources/Assets/Creature Redesgined Gallery/uber-grid/lib/::1725859742
+::res://Resources/Assets/Creature Redesgined Gallery/uber-grid/lib/composer/::1725859742
+installed.json::JSON::-1::1725859742::0::1::::<><>::
+::res://Resources/Assets/Creature Redesgined Gallery/uber-grid/src/::1725859742
+::res://Resources/Assets/Creature Redesgined Gallery/uber-grid/src/Helpers/::1725859742
+::res://Resources/Assets/Creature Redesgined Gallery/uber-grid/src/views/::1725859742
+::res://Resources/Scenes/::1725859742
+Main_Screen.tscn::PackedScene::-1::1725859742::0::1::::<><>::
+::res://Resources/UI/::1725859742
+::res://Resources/UI/Backgrounds/::1725859742
+background 2.png::CompressedTexture2D::7068174579698518932::1725859742::1725864239::1::::<><>::
+Untitled.png::CompressedTexture2D::5738104886891944587::1725859742::1725864239::1::::<><>::

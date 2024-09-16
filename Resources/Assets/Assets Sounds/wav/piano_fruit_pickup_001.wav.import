@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/piano_fruit_pickup_001.wav-73b79e1e6147add62113549063705e68.sample"
+type="AudioStreamWAV"
+uid="uid://g8hsbunfxjui"
+path="res://.godot/imported/piano_fruit_pickup_001.wav-73b79e1e6147add62113549063705e68.sample"
 
 [deps]
 
 source_file="res://Resources/Assets/Assets Sounds/wav/piano_fruit_pickup_001.wav"
-dest_files=[ "res://.import/piano_fruit_pickup_001.wav-73b79e1e6147add62113549063705e68.sample" ]
+dest_files=["res://.godot/imported/piano_fruit_pickup_001.wav-73b79e1e6147add62113549063705e68.sample"]
 
 [params]
 
@@ -17,5 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=true
 edit/normalize=true
-edit/loop=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
 compress/mode=0

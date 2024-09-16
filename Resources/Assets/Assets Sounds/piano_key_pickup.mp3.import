@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bjixhfwnbae62"
+path="res://.godot/imported/piano_key_pickup.mp3-71975e46158e8932999ff54f6f720805.mp3str"
+
+[deps]
+
+source_file="res://Resources/Assets/Assets Sounds/piano_key_pickup.mp3"
+dest_files=["res://.godot/imported/piano_key_pickup.mp3-71975e46158e8932999ff54f6f720805.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

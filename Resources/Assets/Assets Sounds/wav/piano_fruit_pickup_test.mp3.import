@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://t1vo85cj2xri"
+path="res://.godot/imported/piano_fruit_pickup_test.mp3-c459118373d40d1485447049754c0ccf.mp3str"
+
+[deps]
+
+source_file="res://Resources/Assets/Assets Sounds/wav/piano_fruit_pickup_test.mp3"
+dest_files=["res://.godot/imported/piano_fruit_pickup_test.mp3-c459118373d40d1485447049754c0ccf.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bck05e2jab26c"
+path="res://.godot/imported/piano_base_cat_layer.mp3-9cbdb9d9459a5341f892ba777d49f3c1.mp3str"
+
+[deps]
+
+source_file="res://Resources/Assets/Assets Sounds/wav/piano_base_cat_layer.mp3"
+dest_files=["res://.godot/imported/piano_base_cat_layer.mp3-9cbdb9d9459a5341f892ba777d49f3c1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

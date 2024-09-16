@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bbw5iq82raaof"
+path="res://.godot/imported/piano_portal_Activated.mp3-02536b7fe1082822589872f44dc8a15d.mp3str"
+
+[deps]
+
+source_file="res://Resources/Assets/Assets Sounds/piano_portal_Activated.mp3"
+dest_files=["res://.godot/imported/piano_portal_Activated.mp3-02536b7fe1082822589872f44dc8a15d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

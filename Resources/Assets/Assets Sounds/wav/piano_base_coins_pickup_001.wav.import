@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/piano_base_coins_pickup_001.wav-d19595dedfe6edf7796a8d863213ec38.sample"
+type="AudioStreamWAV"
+uid="uid://sg83xm8v4c0r"
+path="res://.godot/imported/piano_base_coins_pickup_001.wav-d19595dedfe6edf7796a8d863213ec38.sample"
 
 [deps]
 
 source_file="res://Resources/Assets/Assets Sounds/wav/piano_base_coins_pickup_001.wav"
-dest_files=[ "res://.import/piano_base_coins_pickup_001.wav-d19595dedfe6edf7796a8d863213ec38.sample" ]
+dest_files=["res://.godot/imported/piano_base_coins_pickup_001.wav-d19595dedfe6edf7796a8d863213ec38.sample"]
 
 [params]
 
@@ -17,5 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=true
 edit/normalize=true
-edit/loop=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
 compress/mode=0

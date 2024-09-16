@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/piano_cast_magic_001.wav-5d7df305ef1ee79526e9954f47d6195e.sample"
+type="AudioStreamWAV"
+uid="uid://8k67g22jh26o"
+path="res://.godot/imported/piano_cast_magic_001.wav-5d7df305ef1ee79526e9954f47d6195e.sample"
 
 [deps]
 
 source_file="res://Resources/Assets/Assets Sounds/wav/piano_cast_magic_001.wav"
-dest_files=[ "res://.import/piano_cast_magic_001.wav-5d7df305ef1ee79526e9954f47d6195e.sample" ]
+dest_files=["res://.godot/imported/piano_cast_magic_001.wav-5d7df305ef1ee79526e9954f47d6195e.sample"]
 
 [params]
 
@@ -17,5 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=true
 edit/normalize=true
-edit/loop=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
 compress/mode=0
